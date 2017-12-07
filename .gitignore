@@ -1,3 +1,6 @@
+# Config.py because it contains Google API key
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
