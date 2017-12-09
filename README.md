@@ -90,7 +90,7 @@ The change in spay neuter status changes dramatically between intake and outcome
 ## Location Analysis
 
 In general, the most animal intakes center around the I-35 corridor, with one large patch south of 290 near downtown, and another north of downtown near 183.
-![location](/figures/map1.png width=100)
+![location](/figures/map1.png )
 
 ###Strays vs. Pets in Homes
 Stray intakes tended to center around the same corridor in Austin, while intakes from pets in homes were more spread out inside and outside the city.
