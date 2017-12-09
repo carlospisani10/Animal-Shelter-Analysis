@@ -30,47 +30,53 @@ What are factors that impact time between animal intake and outcome?
 
 City of Austin Animal Center takes in a wide variety animals categorized in “Animal Type” classifications of Bird, Cat, Dog, Livestock and Other.  
 
-Bird - 328
-Cat - 28,489
-Dog - 42,590
-Livestock - 8
-Other - 4,162
+* Bird - 328
+* Cat - 28,489
+* Dog - 42,590
+* Livestock - 8
+* Other - 4,162
 
 Due to the limited sample size Birds and Livestock were eliminated from the sample data set.  
 For each “Animal Type”  the specific breed is recorded.  For the Other animal type the breed further identifies 91 additional animal types from armadillos to turtles with most common being bats, raccoons, rabbits, opossums and guinea pigs.  
 
-Bats - 2,049
-Racoons - 678
-Rabbits - 290
-Opossums - 271
-Guinea Pigs - 145
+* Bats - 2,049
+* Racoons - 678
+* Rabbits - 290
+* Opossums - 271
+* Guinea Pigs - 145
 
 Due to the wide variety of animal types and limited sample size for each, the Other animal type was also eliminated from the final sample data set. 
 
 The final data set contained 57,593 records for animal types Cats and Dogs.
 
-Cat - 25,896
-Dog - 31,697
+* Cat - 25,896
+* Dog - 31,697
 
 The number of annual Animal Intakes were plotted to a bar chart by year to determine if there was any overall change to the number of annual animal intakes.  
+
 ![Intakes](/figures/Intakes_Year.png)
 
 
 The data was further analysed by stacking the Intake types to determine if there were any significant annual changes to animal intakes. Review indicated that proportionally the intake by type remains consistent year over year. 
+
 ![Intakes](/figures/Intakes_Type_Year.png)
 
 Intakes were next analyzed to determine if there were any month to month fluctuations.  There was slight variation month to month for dogs; however the fluctuations month to month for cats was very pronounced, with significantly higher volume in warmer months and significantly lower volume colder months.
+
 ![Intakes](/figures/Intakes_Month.png)
 
 Stacking the intake type month to month reveals that the fluctuations are attributable to strays. 
+
 ![Intakes](/figures/Intakes_Type_Month.png)
 
 Analysis of the annual outcomes reveals that relative to cats dogs as a whole are highly adoptable.  Dogs are also more likely to be returned to their owner.   By contrast cats are most often transferred and have a higher rate of euthanasia.   Euthanasia rates for both cats and dogs have declined; however, dogs have had much better outcomes with euthanasia rates cut in half year over year. 
+
 ![Outcome](/figures/Outcomes_Dog_Year.png)
 
 ![Outcome](/figures/Outcomes_Cat_Year.png)
 
 There is also a marked difference in the mean number of days to outcome for dogs and cats.  Dogs have a mean adoption time of 23 days versus cats of 39 days.  Dogs are also given more days in shelter before transfer (11 days) as compared to cats (6 days).   The time before euthanasia increased for both cats and dogs; however dogs are given nearly twice as much time before euthanizing. 
+
 ![Outcome](/figures/Days_Outcomes_Dog_Year.png)
 
 ![Outcome](/figures/Days_Outcomes_Cat_Year.png)
@@ -85,13 +91,13 @@ The change in spay neuter status changes dramatically between intake and outcome
 
 In general, the most animal intakes center around the I-35 corridor, with one large patch south of 290 near downtown, and another north of downtown near 183.
 
-#Strays vs. Pets in Homes
+###Strays vs. Pets in Homes
 Stray intakes tended to center around the same corridor in Austin, while intakes from pets in homes were more spread out inside and outside the city.
 
-#Dogs vs. Cats
+###Dogs vs. Cats
 Dog intakes were more prevalent than cat intakes, and more concentrated in the downtown area, and around the I-35/71/183 corridors. Cat intakes tended to be a little more spread out than dog intakes.
 
-#Frequency of Vets
+###Frequency of Vets
 We created a scatter plot of the number of intake addresses within a 1,700 meter radius of all veterinary clinics in Austin.
 * In areas with lowest vet count, the frequency of intakes was highest.
 * As vet count increased up to a certain point, intake frequency decreased. 
@@ -105,7 +111,7 @@ We created a scatter plot of the number of intake addresses within a 1,700 meter
 In both the Austin and Louisville datasets contained timestamp data associated with the intake and outcome times for each animal in the system. The difference between these timestamp values therefore represents the total time that each animal spent in the shelter system. We used this information to evaluate how different factors influence the amount of time that animals spend in the system.
 
 
-# Days from Intake to Outcome
+### Days from Intake to Outcome
 We started with a basic comparison between the two cities to assess whether they showed significant differences in how long animals stayed in their systems. To perform this analysis, we concatenated data from the two cities, created a new variable indicating the city associated with the data, grouped the data by the new “City” variable, and compared the mean Intake-to-Outcome time differences between them.
 
 ![Louisville](/figures/time_to_outcome_by_city.png)
@@ -113,7 +119,7 @@ We started with a basic comparison between the two cities to assess whether they
 This comparison revealed that although Austin’s median time-to-outcome was lower than Louisville’s (5.4 vs 6.0 days), its mean time-to-outcome was higher (17.8 days vs. 13.5 days). An independent samples t-test (assuming unequal variances per results from Levene’s test) revealed that this difference was statistically significant (t = 22.6, p < .001).
 
 
-# Outcome Type
+### Outcome Type
 
 Outcome type is another factor that could potentially be associated with how long animals stay in the shelter systems.
 
