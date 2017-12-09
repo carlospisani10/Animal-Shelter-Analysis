@@ -1,594 +1,342 @@
 Address,Latitude,Longitude,Pet at Home,Animal Type,Count
-"5201 Purple Sage,Travis,TX",30.311727,-97.65945119999999,False,Dog,1
-"Spicewood And Mesa,Austin,TX",30.3714887,-97.75725779999999,False,Dog,1
-"Stassney And South Congress,Austin,TX",30.2049976,-97.77479729999999,False,Dog,1
-"200 San Jose Street,Austin,TX",30.3521302,-97.70144479999999,False,Dog,1
-"200 San Jose St,Austin,TX",30.3521302,-97.70144479999999,False,Dog,1
-"Springdale And Basswod Lane,Austin,TX",30.2965814,-97.6765647,False,Dog,1
-"1416 Edgewater,Travis,TX",30.404714,-97.99815,True,Dog,1
-"7711 Burnet Rd,Austin,TX",30.3540074,-97.7316501,True,Dog,1
-"6807 Blue Dawn Trl,Austin,TX",30.1830626,-97.7618255,False,Dog,4
-"Matthews Lane And Manchaca Road,Austin,TX",30.2000002,-97.80743419999999,False,Dog,1
-"307 Sheffield,Austin,TX",30.2106687,-97.7664901,False,Dog,1
-"Quail Creek Park,Austin,TX",30.3687763,-97.70139549999999,False,Dog,1
-"Airport Blvd And Levander Loop,Austin,TX",30.2530935,-97.6925467,False,Dog,1
-"14205 Rosseau Street,Travis,TX",30.2431015,-97.58651630000001,False,Dog,1
-"10100 South Ih 35,Austin,TX",30.1526571,-97.79207369999999,True,Dog,1
-"12221 North Mopac,Austin,TX",30.3785391,-97.7363927,True,Dog,1
-"183 And 1327,Austin,TX",30.2563438,-97.67732079999999,False,Dog,4
-"1800 East Stassney,Austin,TX",30.1979,-97.76142499999999,False,Dog,1
-"Manchaca And Whitestone,Austin,TX",30.2140182,-97.80017289999999,False,Dog,1
-"6200 Loyola Drive,Austin,TX",30.3029683,-97.6496185,False,Dog,2
-"2102 East Second Street,Austin,TX",30.2570774,-97.7209163,False,Dog,1
-"2901 S Capital Of Texas Hwy,Austin,TX",30.2573391,-97.8071884,False,Dog,1
-"2501 Anken,Austin,TX",30.2293195,-97.7275531,False,Dog,1
-"5200 Bolm Rd,Austin,TX",30.25955889999999,-97.69297379999999,False,Dog,1
-"9010 Collinfield,Austin,TX",30.3628389,-97.704707,False,Dog,1
-"2405 Audubon Place,Austin,TX",30.231628,-97.73986599999999,False,Dog,2
-"5606 Purple Sage Dr #B,Austin,TX",30.3093857,-97.654132,True,Dog,1
-"Wilks And Meador Avenue,Austin,TX",30.3303197,-97.6954243,False,Dog,1
-"3603 Southridge,Austin,TX",30.23474,-97.77690079999999,False,Dog,1
-"517 South Pleasant Valley Road,Austin,TX",30.2451745,-97.71454179999999,False,Dog,1
-"Georgian Dr And Red Oak Circle,Austin,TX",30.3491391,-97.70230649999999,False,Dog,1
-"276 Angel Fire Road,Travis,TX",30.2634626,-97.7982027,False,Dog,1
-"Saint Johns And Interstate 35,Austin,TX",30.32510779999999,-97.7074255,False,Dog,1
-"8105 Research Boulevard,Austin,TX",30.3532802,-97.7117674,True,Dog,2
-"7711 Burnet Road,Austin,TX",30.3540074,-97.7316501,True,Dog,1
-"4106 N Lamar Blvd,Austin,TX",30.3094917,-97.74074990000001,False,Dog,2
-"Decker And Loyola,Austin,TX",30.2911721,-97.6279988,False,Dog,1
-"5000 S Congress,Austin,TX",30.2119685,-97.77164959999999,False,Dog,1
-"11505 Melstone,Manor,TX",30.314684,-97.537082,False,Dog,1
-"9204 Independence Loop,Austin,TX",30.1771424,-97.81263969999999,True,Dog,1
-"2006 Castro Street,Austin,TX",30.2628529,-97.7087347,False,Dog,1
-"6300 Bluff Springs,Austin,TX",30.1927864,-97.7651502,False,Dog,1
-"Cesar Chavez And Lamar,Austin,TX",30.2670556,-97.75721539999999,False,Dog,1
-"E William Cannon Dr And Bluff Springs Rd,Austin,TX",30.1891287,-97.76790539999999,False,Dog,2
-"1704 Nelms Dr,Austin,TX",30.1945143,-97.7645016,False,Dog,1
-"5800 Melody Lane,Austin,TX",30.2549873,-97.572722,False,Dog,2
-"Oltorf And Montopolis,Austin,TX",30.2151219,-97.7104131,False,Dog,1
-"9100 Southwick,Austin,TX",30.2784526,-97.62767790000001,False,Dog,1
-"18900 Falcon Pointe,Pflugerville,TX",30.4631457,-97.5854573,False,Dog,1
-"1400 St Croix Ln,Travis,TX",30.4244673,-97.63213599999999,False,Dog,1
-"2500 East 22Nd,Austin,TX",30.2840783,-97.71549089999999,False,Dog,1
-"10804 Mcangus Rd,Del Valle,TX",30.152667,-97.663832,False,Dog,1
-"9825 Evening Shadows Dr,Del Valle,TX",30.222631,-97.6702117,False,Dog,1
-"Gregg Lane And Fuchs Grove,Manor,TX",30.3874314,-97.5534438,False,Dog,2
-"10240 Crescendo Ln,Austin,TX",30.1391723,-97.76457049999999,False,Dog,1
-"5701 Johnny Morris Road,Austin,TX",30.2919175,-97.65322189999999,False,Dog,1
-"Riverside Drive  And Lamar,Austin,TX",30.264527,-97.7570554,False,Dog,1
-"Miriam Ave And Martin Luther King Jr Blvd,Austin,TX",30.2813575,-97.71152599999999,False,Dog,1
-"Burnet And Greenlawn,Austin,TX",30.3482767,-97.73570319999999,False,Dog,1
-"7711 Burnet,Austin,TX",30.3540074,-97.7316501,True,Dog,2
-"979 Springdale Ln,Austin,TX",30.2634656,-97.6959036,False,Dog,1
-"3515 N Lamar Blvd,Austin,TX",30.30409259999999,-97.74346249999999,False,Dog,4
-"7203 Meadow Bend,Austin,TX",30.2982376,-97.6261432,False,Dog,1
-"12416 Coronet,Austin,TX",30.423048,-97.71876259999999,False,Dog,1
-"5106 Village Sqyare Dr,Austin,TX",30.1886755,-97.7430555,False,Dog,1
-"1600 Nash Hernandez,Austin,TX",30.25104279999999,-97.7320677,False,Dog,1
-"Parmer,Austin,TX",30.4616149,-97.7549452,False,Dog,1
-"8546 Adirondack Tr,Austin,TX",30.3838135,-97.7638818,False,Dog,1
-"Lamplight Village And Magazine,Austin,TX",30.4262641,-97.6900533,False,Dog,1
-"Maiden And Guadalupe,Austin,TX",30.3015431,-97.7389142,False,Dog,1
-"Goforth & Bebee Rd,Hays,TX",30.0098498,-97.7299118,False,Dog,1
-"4320 S Congress #7123,Austin,TX",26.6126883,-80.0899759,True,Dog,2
-"14515 Thunderhead,Austin,TX",30.3730322,-97.9295918,False,Dog,2
-"14504 Cameron Rd,Travis,TX",30.39739299999999,-97.59142399999999,False,Dog,1
-"Holly And Anthony,Austin,TX",30.2525797,-97.72369189999999,False,Dog,1
-"Mesa Dr & Escondido Dr,Del Valle,TX",30.366072,-97.761411,False,Dog,1
-"Vine And Parkview,Austin,TX",30.3455004,-97.7440118,False,Dog,1
-"Old Castle Road And Sheraton,Austin,TX",30.2126142,-97.7622882,False,Dog,1
-"Northtown Park,Pflugerville,TX",30.4146831,-97.6480296,False,Dog,1
-"Toll 130,Travis,TX",30.165823,-97.6501941,False,Dog,2
-"Tall Shadows Drive And Carson Creek Blvd,Austin,TX",30.2244925,-97.668146,False,Dog,1
-"4106 N Lamar,Austin,TX",30.3094917,-97.74074990000001,False,Dog,2
-"11904 Arran St,Austin,TX",30.3576672,-97.6154004,False,Dog,1
-"6026 Bluebell Circle,Austin,TX",30.2301678,-97.70368309999999,False,Dog,2
-"2525 W New Hope Dr,Cedar Park,TX",30.5213683,-97.86933270000002,False,Dog,1
-"1600 Grove Boulevard,Austin,TX",30.2298616,-97.7070109,False,Dog,2
-"7500 Blessing,Austin,TX",30.3328231,-97.6937014,False,Dog,2
-"9017 Berryline,Austin,TX",30.27940169999999,-97.62800220000001,True,Dog,1
-"18312 Cameron Rd,Manor,TX",30.4340845,-97.5280593,False,Dog,1
-"2101 Burton Drive,Austin,TX",30.2324319,-97.73134859999999,False,Dog,1
-"Windoak Drive And Parker Lane,Austin,TX",30.2340271,-97.7358532,False,Dog,1
-"Saint Johns And North Lamar,Austin,TX",30.3855407,-97.6955969,False,Dog,1
-"12419 Metric,Austin,TX",30.4113272,-97.6916068,False,Dog,2
-"10623 Carovilli,Austin,TX",30.1581704,-97.8154654,True,Dog,1
-"1908 Lightsey Rd,Austin,TX",30.2410098,-97.7795823,True,Dog,1
-"Dolphin And Lightsey,Austin,TX",30.237615,-97.773663,False,Dog,1
-"11530 Manchaca,Austin,TX",30.1523236,-97.83508529999999,False,Dog,1
-"8219 Research,Austin,TX",30.355097,-97.7144804,False,Dog,1
-"16817 Trevin Cove,Manor,TX",30.3361951,-97.5499569,False,Dog,1
-"13300 N Ih 35,Austin,TX",30.4198617,-97.673208,False,Dog,1
-"1020 Grove Boulevard,Austin,TX",30.2369453,-97.7042824,False,Dog,1
-"11100 Maha Loop,Austin,TX",30.1057897,-97.6915013,False,Dog,1
-"6710 Arroyo Seco,Austin,TX",30.3406486,-97.73056890000001,False,Dog,1
-"Interstate 35 And 183,Austin,TX",30.3369705,-97.6995549,False,Dog,2
-"9010 Galewood Drive,Austin,TX",30.368112,-97.715397,False,Dog,1
-"Metric And Parmer,Austin,TX",30.4131385,-97.6905694,False,Dog,1
-"7711 Burnet Rf,Austin,TX",30.3540074,-97.7316501,True,Dog,1
-"2414 Village Walk,Austin,TX",30.1967725,-97.7472904,False,Dog,1
-"2900 Cole,Austin,TX",30.2878436,-97.7254253,False,Dog,1
-"8507 Bluff Springs Rd,Austin,TX",30.1658777,-97.7654804,False,Dog,6
-"5400 Blackjack  Cove,Austin,TX",30.1904315,-97.73561839999999,False,Dog,1
-"8401 Hathaway,Austin,TX",30.3650748,-97.72560539999999,False,Dog,1
-"Joy Lee Lane And Jamie Drive,Manor,TX",30.3681505,-97.5179706,False,Dog,1
-"6600 Ed Bulestein,Austin,TX",30.3057946,-97.66268529999999,False,Dog,1
-"5314 Atascosa Drive,Austin,TX",30.1926658,-97.7414824,False,Dog,1
-"Alameda Trace Cir,Austin,TX",30.430713,-97.7474335,False,Dog,1
-"Decker Lane And 969,Austin,TX",30.276794,-97.6372739,False,Dog,1
-"West 4Th And Colorado Street,Austin,TX",30.2665678,-97.7448567,True,Dog,1
-"Plain View Dr And Hunters Bend Rd,Travis,TX",30.2399304,-97.5816598,False,Dog,1
-"5413 Tabitha Cove,Del Valle,TX",30.1725697,-97.6140214,False,Dog,1
-"Manchaca And Stassney,Austin,TX",30.2153302,-97.7976757,False,Dog,1
-"Palm Circle,Austin,TX",30.23375889999999,-97.7000273,False,Dog,1
-"2411 Cecil Dr,Austin,TX",30.1648912,-97.7717308,False,Dog,2
-"14912 Swiss Dr,Travis,TX",30.132071,-97.610393,False,Dog,1
-"13727 Abrahamson Road,Manor,TX",30.36301499999999,-97.46808,False,Dog,1
-"201 West Powell Lane,Austin,TX",30.3476221,-97.7041936,False,Dog,1
-"5007 Heflin,Austin,TX",30.2833188,-97.6786317,False,Dog,1
-"1211 Willow Street,Austin,TX",30.258564,-97.7319335,False,Dog,1
-"301 East Longspur,Austin,TX",30.3647457,-97.68872669999999,False,Dog,1
-"Highway 71 And Farm To Market 973,Del Valle,TX",30.2024274,-97.6396189,False,Dog,1
-"6904 Deep Circle,Austin,TX",30.1802054,-97.7579513,False,Dog,1
-"12712 Farm To Market 969,Austin,TX",30.252496,-97.599271,False,Dog,1
-"1900 E Oltorf,Austin,TX",30.2315389,-97.7348339,False,Dog,1
-"10001 Brownie,Austin,TX",30.3649593,-97.68585399999999,False,Dog,1
-"2302 Durwood,Austin,TX",30.243197,-97.7569022,True,Dog,1
-"11502 Swearingen,Austin,TX",30.389539,-97.69731,True,Dog,1
-"12809 New Sweden Church Road,Manor,TX",30.4059196,-97.4862558,False,Dog,1
-"2337 East Cesar Chavez Street,Austin,TX",30.2545578,-97.717914,False,Dog,1
-"2425 E Riverside Dr,Austin,TX",30.2356668,-97.7253207,False,Dog,1
-"11920 Hardwood Trail,Austin,TX",30.4571444,-97.8164781,False,Dog,1
-"3900 Highland Dr,Austin,TX",30.3942702,-97.919343,False,Dog,1
-"7100 Colony Park Drive,Austin,TX",30.3031361,-97.6428303,False,Dog,1
-"Copperhead Drive And Picadilly Drive,Pflugerville,TX",30.4672757,-97.6496354,False,Dog,1
-"Riverside Drive And Willow Creek,Austin,TX",30.23767999999999,-97.725752,False,Dog,1
-"1700 East Oltorf,Austin,TX",30.2334519,-97.7380329,False,Dog,1
-"1156 W Cesar Chavez,Austin,TX",30.2698458,-97.7593014,True,Dog,4
-"12403 Mellow Meadow Drive,Austin,TX",30.4567859,-97.7960358,False,Dog,2
-"11215 Research Boulevard,Austin,TX",30.4086948,-97.7444024,False,Dog,1
-"Techni Center Dr,Austin,TX",30.2761013,-97.6680384,False,Dog,1
-"1817 E Oltorf St,Austin,TX",30.230481,-97.7367541,False,Dog,1
-"12112 Killmartin,Austin,TX",30.363031,-97.611254,True,Dog,1
-"7111 Crystalbrook Dr,Austin,TX",30.3086135,-97.6521574,True,Dog,1
-"Manor Road And Airport Boulevard,Austin,TX",30.2862723,-97.70649039999999,False,Dog,1
-"7720 Highway 71,Austin,TX",30.2436245,-97.8826072,False,Dog,1
-"9426 Spring Hollow Drive,Austin,TX",30.4380809,-97.7974867,False,Dog,1
-"5400 Lark Creek Dr,Austin,TX",30.1949355,-97.73572430000002,False,Dog,1
-"3500 Webberville Apt 3302,Austin,TX",30.270768,-97.70635329999999,False,Dog,1
-"1711 Rutland Dr,Austin,TX",30.3750209,-97.711981,False,Dog,1
-"Braker And Interstate 35,Austin,TX",30.37713849999999,-97.67650839999999,False,Dog,1
-"10209 812 Rd,Austin,TX",30.15282699999999,-97.67101,False,Dog,1
-"2501 Wickersham Lane,Austin,TX",30.2238471,-97.7251107,False,Dog,1
-"1300 Crossing Place,Austin,TX",30.238131,-97.7133667,False,Dog,1
-"19900 Kennemer Dr,Travis,TX",30.477357,-97.5786694,True,Dog,1
-"3909 N Interstate 35 Service Rd,Austin,TX",30.2954608,-97.7177128,False,Dog,1
-"9404 Meadow Vale,Austin,TX",30.37072509999999,-97.7122089,False,Dog,1
-"10620 Lanshire,Austin,TX",30.3845983,-97.70806180000001,False,Dog,1
-"12400 Mellow Meadow Dr,Austin,TX",30.4563207,-97.79769569999999,False,Dog,2
-"6Th Street And Chicon,Austin,TX",30.2616749,-97.7225332,False,Dog,1
-"Blanco Street And 9Th Street,Austin,TX",30.275187,-97.7555529,False,Dog,1
-"4708 Reyes Street,Austin,TX",30.2744927,-97.6881453,False,Dog,1
-"2212 Lakehurst Rd,Travis,TX",30.3699231,-98.0251138,True,Dog,1
-"E Ben White Blvd And  S Ih 35,Austin,TX",30.2168414,-97.75040179999999,False,Dog,1
-"7901 Metrololis Dr,Austin,TX",30.2056541,-97.69034409999999,False,Dog,2
-"Perlita,Austin,TX",30.2931286,-97.6433306,False,Dog,1
-"24602 Fawn Dr,Travis,TX",30.5897134,-97.97072419999999,False,Dog,1
-"9218 Balcones Club Dr,Austin,TX",30.4419341,-97.78723719999999,False,Dog,1
-"Holy St & Robert T Martinez,Austin,TX",37.8660626,-82.5394985,False,Dog,1
-"Banister And Ben White,Austin,TX",30.228112,-97.779121,False,Dog,1
-"6900 Escarpment Blvd,Austin,TX",30.229963,-97.8656649,False,Dog,2
-"1201 Barbara Jordan Blvd,Austin,TX",30.3059433,-97.70991579999999,False,Dog,1
-"7330 Bluff Springs Rd,Austin,TX",30.1805439,-97.7710049,False,Dog,2
-"Clifford Avenue And Martin Luther King Jr Blvd,Austin,TX",30.2819475,-97.707715,False,Dog,1
-"Rutland And North Lamar,Austin,TX",30.3648712,-97.6959943,False,Dog,1
-"10 Love Grass,Sunset Valley,TX",30.224048,-97.820381,True,Dog,2
-"8601 Vertex Blvd,Austin,TX",30.1561136,-97.7520704,False,Dog,1
-"Somerset Ave,Austin,TX",30.3654896,-97.67338459999999,False,Dog,1
-"7614 Providence Ave,Austin,TX",30.3352165,-97.693913,False,Dog,1
-"Piland Triangle And 812,Del Valle,TX",30.1305429,-97.6442644,False,Dog,1
-"Springdale And 51St Street,Austin,TX",30.2936364,-97.677807,False,Dog,2
-"1101 S Meadows,Austin,TX",30.3759461,-97.6964668,False,Dog,1
-"Springdale And 51St,Austin,TX",30.2936364,-97.677807,False,Dog,1
-"14401 Round Mountain Rd,Travis,TX",30.5736545,-97.9493473,False,Dog,1
-"1108 Kramer Ln,Austin,TX",30.3829708,-97.69285909999999,False,Dog,1
-"5107 Glissman,Austin,TX",30.2560095,-97.6949652,False,Dog,1
-"Hogeye Road And Jones Road,Manor,TX",30.3008287,-97.4918776,False,Dog,1
-"12609 Dessau Road,Austin,TX",30.3921783,-97.64225069999999,False,Dog,1
-"Cameron Road And Highway 290,Austin,TX",30.3200437,-97.6942046,False,Dog,1
-"Rundberg And Interstate 35,Austin,TX",30.3583997,-97.688627,False,Dog,1
-"4312 South 1St Street,Austin,TX",30.2228419,-97.772347,False,Dog,1
-"600 Barwood Park,Austin,TX",30.3493598,-97.6964283,False,Dog,1
-"9500 Dallum,Austin,TX",30.3576892,-97.683821,False,Dog,2
-"9205 Quail Cove,Austin,TX",30.36265,-97.7005006,False,Dog,1
-"5Th And San Saba,Austin,TX",30.2575144,-97.71376029999999,False,Dog,1
-"6612 Johnny Morris,Austin,TX",30.30526619999999,-97.6432339,False,Dog,1
-"1700 Webberville Road,Austin,TX",30.281422,-97.67864600000001,False,Dog,1
-"1600 Grove,Austin,TX",30.2298616,-97.7070109,False,Dog,1
-"6700 Ed Bluestein Boulevard,Austin,TX",30.3086082,-97.6615356,False,Dog,1
-"2516 Glen Springs Way,Austin,TX",30.2290233,-97.7387534,False,Dog,1
-"9810 North Lamar,Austin,TX",30.3684442,-97.6944712,False,Dog,4
-"1311 South Meadows Dr,Austin,TX",30.3778567,-97.70155729999999,False,Dog,2
-"3300 Laguna Dr,Austin,TX",30.2194348,-97.7363579,True,Dog,1
-"11111 Crossland Drive,Austin,TX",30.442273,-97.8233934,False,Dog,1
-"9801 W Parmer,Austin,TX",30.4856927,-97.77130679999999,False,Dog,1
-"5524 Bitterwood Drive,Austin,TX",30.2763569,-97.6226746,False,Dog,1
-"810 Red River St,Austin,TX",30.2691681,-97.73666279999999,True,Dog,1
-"South 1St St And Creekside Cir,Austin,TX",30.2068687,-97.78231,False,Dog,1
-"Johnny Morris Rd And 969,Austin,TX",30.2827895,-97.6532107,False,Dog,1
-"17205 Lessman,Travis,TX",30.2059827,-97.5455908,False,Dog,1
-"Stassney And William Cannon Drive,Austin,TX",30.2021478,-97.804954,False,Dog,1
-"2200 Lou John,Austin,TX",30.4302873,-97.6891775,False,Dog,1
-"12222 Shropshire Boulevard,Austin,TX",30.389152,-97.65687,False,Dog,1
-"710 East Ben White,Austin,TX",30.2210485,-97.7540937,False,Dog,1
-"Guadalupe And St Johns,Austin,TX",30.3377868,-97.7144088,False,Dog,2
-"East Rundberg And Ih 35,Austin,TX",30.3583997,-97.688627,True,Dog,1
-"916 Springdale Drive,Austin,TX",30.2616405,-97.6987834,False,Dog,1
-"5307 Basswood Lane,Austin,TX",30.2966218,-97.67627949999999,False,Dog,1
-"8500 Spicewood Springs Rd,Austin,TX",30.4292166,-97.7824445,True,Dog,1
-"709 Harris Avenue,Austin,TX",30.2946347,-97.729076,False,Dog,1
-"Santa Fe Drive,Austin,TX",30.2190799,-97.73749169999999,False,Dog,1
-"Fm 973 And Garden Grove,Austin,TX",30.1173674,-97.96482519999999,False,Dog,1
-"Metric And Braker Lane,Austin,TX",30.392298,-97.70838189999999,False,Dog,1
-"Mckinney Falls Pkwy And Dee Gabriel Collins,Austin,TX",30.17245429999999,-97.7221363,False,Dog,1
-"Burleson Rd And Montopolis Dr,Austin,TX",30.2055591,-97.71664439999999,False,Dog,1
-"Balcones And Big Bend,Austin,TX",30.3318344,-97.7629755,False,Dog,2
-"124 W Anderson,Austin,TX",30.3447022,-97.70523279999999,True,Dog,1
-"1301 Quailfield,Austin,TX",30.3665174,-97.7071244,True,Dog,1
-"9811 South Interstate 35 Frontage Road,Austin,TX",30.1574551,-97.7881319,False,Dog,1
-"12800 Harrisgless,Austin,TX",30.400566,-97.653066,False,Dog,1
-"4413 Quicksilver,Austin,TX",30.1737918,-97.76234009999999,False,Dog,2
-"3300 Northeast,Austin,TX",30.3092513,-97.6706859,False,Dog,1
-"6000 Seville,Austin,TX",30.291244,-97.6442,False,Dog,1
-"12314 Blue Water Dr,Austin,TX",30.40620689999999,-97.6822523,False,Dog,1
-"11700 Fm 1826,Austin,TX",30.1933237,-97.9244861,False,Dog,1
-"9201 Hunters Trace E,Austin,TX",30.3669848,-97.7108009,False,Dog,1
-"Aberdeen Dr,Austin,TX",30.2156965,-97.78014809999999,False,Dog,1
-"Cameron Road And Berkman Road,Austin,TX",30.3100107,-97.70845399999999,False,Dog,1
-"Mckinney Falls Pkwy And E William Cannon,Austin,TX",30.1632324,-97.72589339999999,False,Dog,1
-"1200 Montopolis Drive,Austin,TX",30.2322294,-97.6998885,False,Dog,1
-"1900 Burton Drive,Austin,TX",30.234663,-97.731793,False,Dog,1
-"7201 Levander,Austin,TX",30.2527847,-97.6904186,False,Dog,1
-"North I-H-35,Austin,TX",30.3427504,-97.7037491,True,Dog,1
-"Kemp St And Clovis St,Austin,TX",30.2430348,-97.6934485,False,Dog,2
-"908 Walter St,Austin,TX",30.2671776,-97.7119421,True,Dog,1
-"7201 Levander Loop,Austin,TX",30.2527847,-97.6904186,False,Dog,9
-"2105 Nogales,Austin,TX",30.1815175,-97.76627739999999,False,Dog,1
-"7102 Millrace,Austin,TX",30.3088989,-97.6547511,False,Dog,1
-"Cypress Creek Road And Liberty Oak Boulevard,Cedar Park,TX",30.4956342,-97.8234171,False,Dog,1
-"4615 Cypress Bnd,Austin,TX",30.1990353,-97.7338817,False,Dog,1
-"3300 Brushy Creek Rd,Cedar Park,TX",30.5088311,-97.7715772,False,Dog,1
-"6800 Ferrystone Pass,Austin,TX",30.1610927,-97.63674669999999,False,Dog,2
-"10520 N Lamar Blvd,Austin,TX",30.3751687,-97.6905747,False,Dog,1
-"Canoga And Decker,Austin,TX",30.2835134,-97.6329183,True,Dog,1
-"1030 Norwood Park Blvd,Austin,TX",30.3393409,-97.690861,False,Dog,2
-"County Road 110 And Hayride Road,Del Valle,TX",30.1447267,-97.5730148,False,Dog,1
-"312 Kimberly Dr,Austin,TX",30.1895433,-97.7846223,False,Dog,1
-"7906 San Felipe,Austin,TX",30.43828,-97.7681762,False,Dog,1
-"11400 February,Austin,TX",30.37659979999999,-97.6638826,False,Dog,1
-"7224 Northeast,Austin,TX",30.321056,-97.68068,False,Dog,1
-"Elroy Road And Apperson Street,Travis,TX",30.161031,-97.6484791,False,Dog,1
-"Longview,Austin,TX",30.2883878,-97.7508479,False,Dog,1
-"Dessau Road And Braker Lane,Austin,TX",30.3723818,-97.6656699,False,Dog,1
-"Highway 71,Bee Cave,TX",30.308103,-97.9525061,True,Dog,1
-"12000 Metric Boulevard,Austin,TX",30.402561,-97.70199199999999,False,Dog,2
-"Wheless Lane And Dorchester,Austin,TX",30.3130533,-97.68610149999999,False,Dog,1
-"Old San Antonio Rd & Estancia,Austin,TX",30.9939504,-96.17217559999999,False,Dog,1
-"Putters Cv & Copperbend,Austin,TX",39.954522,-76.81874119999999,False,Dog,1
-"9110 Us 183,Austin,TX",30.1245966,-97.6964094,False,Dog,1
-"7132 Walkup Ln,Austin,TX",30.1495536,-97.73716209999999,False,Dog,1
-"804 Kavanagh,Austin,TX",30.1792912,-97.80357430000001,False,Dog,1
-"2408 Avenue N,Austin,TX",30.4327374,-97.6903478,False,Dog,1
-"Fawn Drive Leander,Travis,TX",30.5933989,-97.97467359999999,False,Dog,1
-"Fawn Drive,Travis,TX",30.2371348,-97.73564809999999,False,Dog,1
-"11Th Street And Baylor,Austin,TX",30.2762815,-97.75277469999999,False,Dog,1
-"8700 Cameron Road,Austin,TX",30.3449026,-97.6783794,False,Dog,1
-"1618 West Braker,Austin,TX",30.3897442,-97.7017286,False,Dog,1
-"East Highway 71 And Ben White Boulevard,Austin,TX",30.2170823,-97.753615,False,Dog,1
-"2617 S Ih 35,Austin,TX",30.2295375,-97.74274899999999,False,Dog,1
-"202 Old Bastrop Road,Travis,TX",30.1754304,-97.53067130000001,False,Dog,5
-"400 West Anderson,Austin,TX",30.346493,-97.70742,False,Dog,5
-"1705 Frontier Valley Drive,Austin,TX",30.224688,-97.694583,False,Dog,1
-"14000 Fm 2000,Manor,TX",30.3647464,-97.5329275,False,Dog,1
-"18706 Blake Manor,Travis,TX",30.2875942,-97.52107860000001,False,Dog,1
-"East Riverside And South Pleasant Valley Road,Austin,TX",30.234143,-97.7228689,False,Dog,2
-"Congree Avenue And Stassany Lane,Austin,TX",30.2049976,-97.77479729999999,False,Dog,1
-"13213 Thome Valley Drive,Del Valle,TX",30.1724053,-97.6134945,False,Dog,1
-"12800 Turtle Creek,Austin,TX",30.4511823,-97.77480270000001,False,Dog,2
-"1021 Bird Creek Drive,Austin,TX",30.3717521,-97.6991303,False,Dog,1
-"6103 Cherrylawn Circle,Austin,TX",30.306664,-97.67510209999999,False,Dog,1
-"Airport Boulevard And Goodwin Avenue,Austin,TX",30.2681023,-97.69627299999999,True,Dog,1
-"Teri Rd & Nuckols Crossing,Austin,TX",30.1973583,-97.744907,False,Dog,1
-"Highway 183 And Ed Bluestein,Austin,TX",30.2468288,-97.6911365,False,Dog,1
-"7106 Colony Park Drive,Austin,TX",30.3035626,-97.64255969999999,False,Dog,1
-"51St And Springdale,Austin,TX",30.2936364,-97.677807,False,Dog,1
-"2413 Rodeo,Austin,TX",30.4282808,-97.69508959999999,False,Dog,1
-"La Crosse Ave And South Mopac,Austin,TX",30.1904267,-97.8732836,False,Dog,2
-"14000 The Lakes Boulevard,Pflugerville,TX",30.4254446,-97.6655179,False,Dog,1
-"7400 Crystalbrook Dr,Austin,TX",30.3113561,-97.65113919999999,False,Dog,1
-"2201 Perry Avenue,Austin,TX",30.2463644,-97.7651418,False,Dog,2
-"11810 Pinto Cir,Mustang Ridge,TX",30.06345,-97.705547,True,Dog,1
-"8405 Old Bee Caves Road,Austin,TX",30.2504871,-97.8874476,False,Dog,1
-"12248 Lamar Blvd,Austin,TX",30.4018315,-97.6796593,False,Dog,1
-"11406 Lapoynor,Manor,TX",30.3363762,-97.5634341,False,Dog,6
-"44Th And Avenue D,Austin,TX",30.3079819,-97.7300506,False,Dog,1
-"6725 Savanna Canyon Drive,Del Valle,TX",30.1613516,-97.6407024,False,Dog,1
-"2101 Speedway,Austin,TX",30.2838237,-97.73590949999999,False,Dog,1
-"Ceberry And Crowncrest,Austin,TX",30.3695964,-97.7489801,False,Dog,1
-"10403 Golden Meadow,Austin,TX",30.3813963,-97.71005989999999,False,Dog,1
-"2114 New Slaughter,Austin,TX",30.1742761,-97.8266215,False,Dog,1
-"North Lamar And Masterson,Austin,TX",30.37121,-97.6924185,False,Dog,1
-"5604 Southwest Parkway,Austin,TX",30.2470473,-97.8462619,False,Dog,1
-"4800 South Interstate 35,Austin,TX",30.2075151,-97.7583318,False,Dog,1
-"4609 Mellow Hollow Drive,Austin,TX",30.1968686,-97.72862839999999,False,Dog,2
-"Norh Highway 620 And General Williamson Drive,Austin,TX",30.3917792,-97.9370794,False,Dog,1
-"9116 Sedgemoor Trail,Austin,TX",30.1812427,-97.82109439999999,False,Dog,1
-"1399 Fm 1704,Travis,TX",30.32220409999999,-97.37508830000002,False,Dog,1
-"12425 Mellow Meadow Drive,Austin,TX",30.458306,-97.79681839999999,False,Dog,1
-"1300 Fm 1704,Travis,TX",30.1423119,-97.8004588,False,Dog,1
-"0000 Landsman Dr,Austin,TX",30.2346523,-97.89506779999999,False,Dog,1
-"201 West Stassney Lane,Austin,TX",30.2053758,-97.77627,False,Dog,1
-"3700 Tower View Ct,Austin,TX",30.2872486,-97.704527,False,Dog,1
-"4700 Lake Champlain,Austin,TX",30.3388773,-97.647279,False,Dog,1
-"14718 Ih35,Austin,TX",30.4387813,-97.67025729999999,False,Dog,1
-"Bell Spring And West Lake Shore,Austin,TX",30.28331739999999,-98.1023801,False,Dog,1
-"South Congress Avenue,Austin,TX",30.2142603,-97.76940959999999,False,Dog,1
-"183 And East Boggy Greenbelt,Austin,TX",30.26979,-97.71247900000002,False,Dog,2
-"Westgate And Linnet,Austin,TX",30.1964854,-97.82904219999999,False,Dog,1
-"9019 Elroy Rd,Travis,TX",30.1223891,-97.633291,False,Dog,1
-"Cedargrove Drive And Copperbend Boulevard,Austin,TX",30.19775499999999,-97.73978,False,Dog,1
-"1705 South Lakeshore Blvd,Austin,TX",30.2446481,-97.72971079999999,False,Dog,1
-"13355 N Hwy 183,Austin,TX",30.4482221,-97.78489019999999,False,Dog,1
-"Bogey Court And Stassney,Austin,TX",30.1939156,-97.7404182,False,Dog,1
-"5310 George St,Austin,TX",30.1902545,-97.7347676,True,Dog,2
-"3401 Webberville Rd,Austin,TX",30.2682028,-97.70685639999999,False,Dog,1
-"6001 Manchaca Road,Austin,TX",30.2122202,-97.80153170000001,False,Dog,3
-"Parkfield And Rutland,Austin,TX",30.3692408,-97.70550440000001,False,Dog,1
-"2105 Parker,Austin,TX",30.233754,-97.7347489,False,Dog,1
-"3400 Catalina,Austin,TX",30.2193762,-97.73879610000002,False,Dog,2
-"12921 Ring Drive,Manor,TX",30.3421322,-97.52680199999999,False,Dog,1
-"11939 Sundillow Bend,Austin,TX",30.4000904,-97.70132029999999,False,Dog,1
-"Unknown,Austin,TX",30.2671444,-97.7386812,False,Dog,2
-"North Loop And Burnet,Austin,TX",30.325594,-97.742036,False,Dog,1
-"3300 Killingsworth Ln,Pflugerville,TX",30.4132721,-97.605339,False,Dog,1
-"1709 E Hwy 71,Austin,TX",30.2217144,-97.6720045,False,Dog,1
-"Airport And Bolm,Austin,TX",30.2600671,-97.6938717,False,Dog,1
-"North Lamar And Rundberg,Austin,TX",30.363062,-97.6970274,False,Dog,4
-"501 S Highway 183,Austin,TX",30.2390822,-97.6864691,False,Dog,1
-"2803 Loyola,Austin,TX",30.3141765,-97.6735427,False,Dog,1
-"William Cannon Drive And Mckinney Falls Pkwy,Austin,TX",30.1724411,-97.7219975,False,Dog,1
-"2404 Lakehurst Dr,Austin,TX",30.1845842,-97.7564756,False,Dog,1
-"Ross Road And Pearce Lane,Travis,TX",30.1724219,-97.6294312,False,Dog,1
-"Bolm Rd And Airport Blvd,Austin,TX",30.2600671,-97.6938717,False,Dog,1
-"3300 Santa Monica Dr,Austin,TX",30.2192214,-97.7354936,False,Dog,1
-"4630 Killingsworth Lane,Travis,TX",30.4077401,-97.603222,False,Dog,1
-"Fm 969 And Decker Lane,Austin,TX",30.276794,-97.6372739,False,Dog,1
-"124 W Anderson Ln,Austin,TX",30.3447022,-97.70523279999999,False,Dog,1
-"Loyola And 183,Austin,TX",30.302603,-97.66111049999999,False,Dog,1
-"10214 Brownie,Austin,TX",30.3684722,-97.68478739999999,False,Dog,1
-"8805 Cainewood Lane,Austin,TX",30.45558,-97.772345,False,Dog,1
-"Circle C,Austin,TX",30.1911295,-97.88984900000001,False,Dog,1
-"15209 Pocmont Trl,Austin,TX",30.074569,-97.644384,False,Dog,1
-"7201 Meadowood,Austin,TX",30.3202633,-97.6705107,False,Dog,1
-"5811 Nuckols Crossing,Austin,TX",30.1872469,-97.7422926,False,Dog,1
-"Loyola And Sandshof,Austin,TX",30.2990329,-97.64555569999999,False,Dog,1
-"Levander Loop,Austin,TX",30.2506524,-97.68821709999999,False,Dog,1
-"3300 Carol Ann,Austin,TX",30.3105076,-97.6710397,False,Dog,1
-"1704 Nelms,Austin,TX",30.1945143,-97.7645016,False,Dog,2
-"102 East Rundberg,Austin,TX",30.3638869,-97.6916658,True,Dog,1
-"4502 Hudson Bend Rd,Travis,TX",30.4061891,-97.9273822,True,Dog,1
-"2200 West 35Th Street,Austin,TX",30.3137275,-97.7612259,False,Dog,1
-"11112 Hermitage Drive,Austin,TX",30.3484169,-97.68923769999999,False,Dog,1
-"Manor Road And East 51St Street,Austin,TX",30.2981358,-97.6870582,False,Dog,1
-"Lamplight Village And Metric,Austin,TX",30.4105,-97.69554,False,Dog,1
-"7309 Lazy Creek Drive,Austin,TX",30.313495,-97.6566673,False,Dog,1
-"Fm 969 And Fm 973,Austin,TX",30.2570212,-97.61187869999999,False,Dog,1
-"2703 Northeast Dr,Austin,TX",30.3127448,-97.677784,False,Dog,1
-"1901 East Ben White Boulevard,Austin,TX",30.2154501,-97.7468325,False,Dog,1
-"Salt Springs And William Cannon,Austin,TX",30.1689408,-97.7384984,False,Dog,1
-"10721 Research Blvd,Austin,TX",30.3991021,-97.744997,False,Dog,1
-"Fm 969,Austin,TX",30.2708119,-97.63043739999999,False,Dog,2
-"Montopolis And Ponca,Austin,TX",30.2375527,-97.69533279999999,False,Dog,1
-"183 And Toll 130,Travis,TX",30.0503501,-97.69102409999999,False,Dog,1
-"Comal Street And Haskell Street,Austin,TX",30.253996,-97.7307428,False,Dog,1
-"Owen Tech Blvd And West Wells Branch Blvd,Austin,TX",30.438698,-97.67201089999999,True,Dog,2
-"12118 Walnut Creek,Austin,TX",30.3935615,-97.6769525,False,Dog,1
-"5211 Meadow Creek,Austin,TX",30.2147346,-97.7846398,False,Dog,1
-"View Point Drive And Nuckols Crossing,Austin,TX",30.2004737,-97.73431749999999,False,Dog,1
-"21205 W 71,Austin,TX",30.2269169,-97.7697774,False,Dog,1
-"12511 Fm 1625,Travis,TX",30.0867065,-97.7348619,False,Dog,1
-"12709 North Mopac,Austin,TX",30.4236588,-97.7020888,False,Dog,2
-"300 East Lane Street,Manor,TX",30.3464572,-97.554278,False,Dog,1
-"51St Street And Berkman,Austin,TX",30.3037953,-97.698926,False,Dog,2
-"5601 Manchaca Road,Austin,TX",30.2147238,-97.79739180000001,False,Dog,1
-"13327 Old San Antonio Rd,Travis,TX",30.1119698,-97.8114313,False,Dog,1
-"14802 Thunderhead Road,Austin,TX",30.3732325,-97.934135,False,Dog,1
-"3048 Steiner Ranch Blvd,Travis,TX",30.3706199,-97.8943221,False,Dog,1
-"3800 S 183 Hwy,Travis,TX",30.1946119,-97.6848399,True,Dog,2
-"Airport Boulevard And Manor Road,Austin,TX",30.2862723,-97.70649039999999,False,Dog,1
-"West Anderson Lane And Shoal Creek Blvd,Austin,TX",30.3610565,-97.74085319999999,False,Dog,1
-"1200 Rundberg Lane,Austin,TX",30.354549,-97.67937700000002,False,Dog,1
-"7816 Jotham Dr,Travis,TX",30.268257,-97.47183199999999,False,Dog,1
-"605 W St Johns Avenue,Austin,TX",30.3378818,-97.7151542,False,Dog,2
-"Highway 71 And Ross Road,Austin,TX",30.1862016,-97.60952619999999,False,Dog,2
-"Majestic Elm Lane,Travis,TX",30.3504596,-97.4318322,False,Dog,1
-"7604 N Interstate Hwy 35,Austin,TX",30.3382201,-97.70197669999999,False,Dog,1
-"5304 Via Besso,Travis,TX",30.3147416,-97.98961659999999,False,Dog,1
-"Us Highway 290 And Parmer Lane,Austin,TX",30.3439101,-97.5802808,False,Dog,1
-"4604 Wally Avenue,Austin,TX",30.2816456,-97.6846411,False,Dog,1
-"6315 Ken Caryl Dr,Austin,TX",30.1579051,-97.7431622,True,Dog,3
-"10000 North Lamar Boulevard #1016,Austin,TX",30.3694186,-97.6952223,False,Dog,1
-"3801 Black Granite Dr,Austin,TX",30.2012351,-97.69856209999999,False,Dog,1
-"Weberville Way,Travis,TX",30.2337775,-97.48057639999999,False,Dog,1
-"Ben White And South Congress,Austin,TX",30.2224893,-97.7641591,False,Dog,1
-"Wells Branch And Single Trace,Austin,TX",30.4414046,-97.6886435,False,Dog,1
-"6008 Marigold Terrace,Austin,TX",30.2311395,-97.7044039,False,Dog,1
-"809 Tirado Street,Austin,TX",30.32334,-97.709276,False,Dog,1
-"9000 Fm 812,Austin,TX",30.1625203,-97.6879518,False,Dog,1
-"Parkfield And Cripple Creek,Austin,TX",30.3748926,-97.7009784,False,Dog,1
-"Tillery Street,Austin,TX",30.2684164,-97.7010695,False,Dog,1
-"10739 Old Lockhart,Austin,TX",30.1133277,-97.7488597,False,Dog,2
-"2801 La Frontera Blvd,Round Rock,TX",30.4786544,-97.6844412,False,Dog,1
-"12443 Tech Ridge,Austin,TX",30.3966187,-97.6639567,False,Dog,1
-"1900 Holly,Austin,TX",30.2622154,-97.80254049999999,False,Dog,2
-"Burnet And Anderson Lane,Austin,TX",30.356204,-97.73086529999999,False,Dog,1
-"Dittmar And South 1St,Austin,TX",30.1838742,-97.79268479999999,False,Dog,1
-"8701 West Parmer Lane,Austin,TX",30.4680677,-97.76204299999999,False,Dog,1
-"11934 Rosethorn Dr,Austin,TX",30.4004104,-97.70035949999999,True,Dog,1
-"13003 Vinyard Drive,Travis,TX",30.117931,-97.8148492,False,Dog,2
-"3839 Airport Boulevard,Austin,TX",30.2889343,-97.706779,False,Dog,1
-"2801 Zeke Bend,Austin,TX",30.1907457,-97.8296416,False,Dog,1
-"201 Prairie Dell,Austin,TX",30.3404581,-97.7078131,False,Dog,1
-"305 East Grady Drive,Austin,TX",30.3727095,-97.68340649999999,False,Dog,1
-"6501 Highpoint Cove,Austin,TX",30.3065462,-97.6663616,True,Dog,1
-"Rosehill Circle And Stassney,Austin,TX",30.2138323,-97.794258,False,Dog,3
-"2100 San Jacinto,Austin,TX",30.2840095,-97.7335602,True,Dog,1
-"102 E Rundberg,Austin,TX",30.3638869,-97.6916658,False,Dog,1
-"Barton Skyway And S Lamar Blvd,Austin,TX",30.2436129,-97.78228659999999,False,Dog,1
-"North Lamar And Meadowlark Street,Austin,TX",30.32971969999999,-97.723171,False,Dog,1
-"Merrilltown Drive And Mopac Expressway,Austin,TX",30.4498488,-97.6954449,False,Dog,1
-"2601 Lott Avenue,Austin,TX",30.2771299,-97.6852987,False,Dog,1
-"1020 Arthur Stiles Rd,Austin,TX",30.2568023,-97.68177419999999,False,Dog,1
-"12345 Lamplight Village Avenue,Austin,TX",30.4119354,-97.69458139999999,False,Dog,1
-"8403 Mesa Dr,Austin,TX",30.3757495,-97.7537059,False,Dog,1
-"6809 Point North Drive,Austin,TX",30.3074334,-97.6394699,False,Dog,2
-"6401 North Hampton,Austin,TX",30.3135772,-97.6807321,False,Dog,1
-"N Meadows Dr And Plains Trail,Austin,TX",30.3774273,-97.69700499999999,False,Dog,1
-"Riverside And Anise,Austin,TX",30.221949,-97.6963681,False,Dog,1
-"1908 Willow Creek,Austin,TX",30.2329543,-97.72943529999999,False,Dog,1
-"2100 Barton Springs Road,Austin,TX",30.2660703,-97.76913479999999,False,Dog,3
-"4535 Highway 71 East,Del Valle,TX",30.1870406,-97.6064913,False,Dog,2
-"907 West Slaughter Lane,Austin,TX",30.1606549,-97.807902,False,Dog,1
-"13512 Fm 812,Travis,TX",30.124047,-97.6385214,False,Dog,1
-"933 Coronation Way,Pflugerville,TX",30.4274549,-97.63947759999999,False,Dog,1
-"Ih35 And William Cannon Drive,Austin,TX",30.188724,-97.76871799999999,False,Dog,1
-"2900 Sun Ridge Drive,Austin,TX",30.2212529,-97.7259133,False,Dog,1
-"Devine Lane And Strickland,Austin,TX",30.1823634,-97.8116052,False,Dog,1
-"12800 Sky Harbor Drive,Del Valle,TX",30.1673759,-97.6250207,False,Dog,1
-"12419 Metric Blvd,Austin,TX",30.4113272,-97.6916068,False,Dog,2
-"3407 Clarksburg,Austin,TX",30.2066615,-97.83284309999999,False,Dog,2
-"5812 N I-H-35,Austin,TX",30.3198945,-97.7085141,False,Dog,1
-"4500 51St Street,Austin,TX",30.2937151,-97.6780398,False,Dog,1
-"7112 Derby Downs Drive,Austin,TX",30.1491911,-97.7384646,False,Dog,2
-"20208 Ed Acklin Road,Manor,TX",30.280074,-97.49728999999999,False,Dog,1
-"5801 Ainez,Austin,TX",30.1877072,-97.7382205,False,Dog,1
-"Mistletoe Trail And Twin Creeks,Travis,TX",30.1297817,-97.82308440000001,False,Dog,1
-"13212 Rampart St,Austin,TX",30.4242149,-97.68637729999999,False,Dog,1
-"2619 East 4Th Street,Austin,TX",30.255932,-97.7130881,False,Dog,1
-"20617 Raptor Roost Road,Pflugerville,TX",30.4809683,-97.5605312,False,Dog,1
-"739 W William Cannon Dr,Austin,TX",30.1977965,-97.7899425,False,Dog,1
-"1030 Norwood Park Boulevard,Austin,TX",30.3393409,-97.690861,False,Dog,1
-"7301 Spicewood Springs Road,Travis,TX",30.4079622,-97.7915982,False,Dog,1
-"15302 Marsha,Austin,TX",30.4487423,-97.66961239999999,False,Dog,1
-"1706 East William Cannon Drive,Austin,TX",30.1894118,-97.76730239999999,False,Dog,1
-"5106 Village Square,Austin,TX",30.1886755,-97.7430555,False,Dog,3
-"East 18Th And Chestnut,Austin,TX",30.279269,-97.7170139,False,Dog,1
-"14300 Fm 969,Austin,TX",30.2479577,-97.5835934,False,Dog,1
-"William Cannon And Salt Springs Road,Austin,TX",30.1689408,-97.7384984,False,Dog,1
-"Hogan And Grove,Austin,TX",30.2373031,-97.70219449999999,False,Dog,1
-"104 East Rector Street,Manor,TX",30.34596909999999,-97.5564698,False,Dog,1
-"5813 Silver Screen Drive,Austin,TX",30.1394707,-97.7677657,False,Dog,2
-"910 Armadillo,Austin,TX",30.2000452,-97.7920862,False,Dog,1
-"Evaline Lane,Austin,TX",30.2016992,-97.82963939999999,False,Dog,1
-"2800 East 2Nd Street,Austin,TX",30.2539819,-97.7120621,False,Dog,2
-"969 @ Imperial,Austin,TX",30.26677149999999,-97.6254081,False,Dog,1
-"East Riverside Drive And Montopolis Drive,Austin,TX",30.2249851,-97.7033993,False,Dog,1
-"5200 Raton Pass,Austin,TX",30.3126349,-97.6588592,False,Dog,1
-"1190 Airport Blvd,Austin,TX",30.2752176,-97.70104099999999,False,Dog,1
-"3101 Collins Creek Dr,Austin,TX",30.2221944,-97.732109,True,Dog,1
-"183 And Lakeline Blvd,Austin,TX",30.4799891,-97.801873,False,Dog,1
-"4802 Cypress Bend,Austin,TX",30.1974254,-97.7355319,False,Dog,1
-"7500 Halliday,Travis,TX",30.2416424,-97.57782209999999,False,Dog,1
-"12096 Old San Antonio Road,Travis,TX",30.1305892,-97.8118839,False,Dog,1
-"Hogan Avenue And Felix Avenue,Austin,TX",30.2364514,-97.70137170000001,False,Dog,1
-"12663 Claremont Cir,Austin,TX",30.1718089,-97.6239583,False,Dog,1
-"45Th Street And Duval,Austin,TX",30.3070055,-97.72456969999999,False,Dog,1
-"Oasis Drive And Escarpment Boulevard,Austin,TX",30.2174522,-97.8741947,False,Dog,1
-"4704 Bergfield Drive,Austin,TX",30.1970815,-97.73388759999999,False,Dog,1
-"West 35Th Street And North Lamar Blvd,Austin,TX",30.3034259,-97.7442435,False,Dog,1
-"3431 West William Cannon Drive,Austin,TX",30.2133443,-97.8301396,False,Dog,2
-"Jack Cook Drive,Austin,TX",30.3086301,-97.6729546,False,Dog,1
-"Clawson Road And Grayford Drive,Austin,TX",30.23174199999999,-97.7822269,False,Dog,1
-"Justin Lane And Grover Ave,Austin,TX",30.3392199,-97.7237753,False,Dog,1
-"1410 Westmoor Dr,Austin,TX",30.309271,-97.7013094,False,Dog,1
-"8440 Burnet,Austin,TX",30.36615759999999,-97.72915139999999,True,Dog,1
-"Grady Dr& I-35,Austin,TX",40.5621156,-75.64012369999999,False,Dog,1
-"4900 East Oltorf,Austin,TX",30.2227206,-97.7217716,False,Dog,1
-"S Congress Ave & Little Texas Ln,Austin,TX",30.2142603,-97.76940959999999,False,Dog,1
-"515 Vargas Road,Austin,TX",30.2359059,-97.691632,False,Dog,1
-"3501 Lake Austin Blvd,Austin,TX",30.2891372,-97.78223,False,Dog,1
-"1709 E 71,Austin,TX",30.2217144,-97.6720045,False,Dog,1
-"Shady Lane And Bolm Road,Austin,TX",30.2598123,-97.6933833,False,Dog,1
-"10500 Ruidosa Street,Austin,TX",30.1361644,-97.6790418,False,Dog,1
-"3800 East 16Th Street,Austin,TX",30.28128299999999,-97.69315499999999,False,Dog,1
-"Dessau Rd E Oxford Rd,Travis,TX",30.4314845,-97.61833960000001,False,Dog,1
-"Pleasant Valley And William Cannon Drive,Austin,TX",30.1806084,-97.74786019999999,False,Dog,1
-"13420 Anthen Trail,Austin,TX",30.4570004,-97.75609299999999,False,Dog,1
-"7844 Burnet Road,Austin,TX",30.3560598,-97.73182299999999,False,Dog,1
-"Dean Keeton And French Place,Austin,TX",30.2840989,-97.72082859999999,False,Dog,1
-"8610 N Lamar Blvd,Austin,TX",30.3555199,-97.70408719999999,True,Dog,1
-"North Loop,Austin,TX",30.31886699999999,-97.7185878,False,Dog,1
-"Grover Ave And 53Rd St,Austin,TX",30.3290996,-97.7317472,False,Dog,1
-"12435 Dessau Road,Austin,TX",30.3889414,-97.6448186,False,Dog,1
-"Peppertree Pkwy And Teri Road,Austin,TX",30.2014766,-97.7514357,False,Dog,1
-"Mariposa And Travis Heights,Austin,TX",30.24086399999999,-97.743472,False,Dog,1
-"12860 Research,Austin,TX",30.4341929,-97.77252229999999,False,Dog,1
-"18916 Fm 1431,Travis,TX",30.48969,-97.95937099999999,False,Dog,1
-"St Johns Ave And Cameron Road,Austin,TX",30.3260912,-97.6923604,False,Dog,1
-"St Johns Avenue And Cameron Road,Austin,TX",30.3260912,-97.6923604,False,Dog,1
-"Cameron And Braker,Austin,TX",30.315519,-97.70290399999999,False,Dog,1
-"11106 Selma,Austin,TX",30.3834842,-97.6949841,True,Dog,1
-"2211 Hancock Drive,Austin,TX",30.3230051,-97.7414228,False,Dog,1
-"3607 Goodwin Ave,Austin,TX",30.2680134,-97.6969448,False,Dog,1
-"6108 East Riverside Dr,Austin,TX",30.226376,-97.70534699999999,False,Dog,1
-"5204 East Ben White,Austin,TX",30.21365359999999,-97.7188613,False,Dog,1
-"Camperdown Elm And S 1St Street,Austin,TX",30.1542155,-97.8006264,True,Dog,1
-"1301 Quail Field Cove,Austin,TX",30.3665174,-97.7071244,False,Dog,1
-"1620 Old Lockhart Road,Travis,TX",30.0791584,-97.73188940000001,False,Dog,10
-"1516 Desert Quail,Austin,TX",30.3737258,-97.70649139999999,False,Dog,1
-"South 1St Street And William Cannon Avenue,Austin,TX",30.1970509,-97.7878418,False,Dog,1
-"600 West William Cannon Drive,Austin,TX",30.1973116,-97.78563919999999,False,Dog,1
-"12041 Dessau Road,Austin,TX",30.3807336,-97.6517927,False,Dog,1
-"Highway 290 And Parmer Lane,Manor,TX",30.3548566,-97.6011329,False,Dog,1
-"12611 Mistletoe Trail,Travis,TX",30.1299789,-97.8252806,False,Dog,2
-"11602 Easy Street,Austin,TX",30.1512152,-97.83256779999999,False,Dog,2
-"Woodhollow Drive And Spicewood Springs,Austin,TX",30.3618165,-97.7468766,False,Dog,2
-"Airport And Mlk,Austin,TX",30.2825403,-97.70398689999999,False,Dog,1
-"2915 Aftonshire Way,Austin,TX",30.1813119,-97.8396343,False,Dog,1
-"South 1St And Oltorf,Austin,TX",30.2421291,-97.7596191,False,Dog,1
-"5307 King Charles Drive,Austin,TX",30.2895463,-97.66205839999999,False,Dog,1
-"409 East Monroe Street,Austin,TX",30.246575,-97.746795,False,Dog,2
-"1500 Resaca Ave,Austin,TX",30.3245047,-97.91648409999999,False,Dog,1
-"11567 Sundown Trail,Austin,TX",30.1652792,-97.8661896,False,Dog,1
-"Bond And Saville,Austin,TX",30.2270962,-97.7396076,False,Dog,1
-"Old Lockhart Road And Fm 1625,Austin,TX",30.1011799,-97.7275141,False,Dog,2
-"6503 Bluff Springs Road,Austin,TX",30.1907711,-97.7661025,False,Dog,1
-"Crestview And Riverside,Austin,TX",30.3550464,-97.71663749999999,False,Dog,1
-"5701 Johnny Morris Rd,Austin,TX",30.2919175,-97.65322189999999,False,Dog,6
-"901 W Ben White Blvd,Austin,TX",30.2260667,-97.7745257,True,Dog,1
-"4504 Sojourner Street,Austin,TX",30.2441816,-97.5866766,False,Dog,1
-"Ventura Drive And Mission Hill Circle,Austin,TX",30.216665,-97.73534199999999,False,Dog,1
-"1009 W Dittmar,Austin,TX",30.1852604,-97.80197079999999,False,Dog,2
-"Wells Branch And Howard Lane,Austin,TX",30.4402115,-97.6978072,False,Dog,1
-"Vasquez St,Austin,TX",30.2313259,-97.6934919,False,Dog,2
-"5Th And Congress,Austin,TX",30.2671174,-97.74313049999999,True,Dog,1
-"Jones Town,Travis,TX",30.4954748,-97.9233468,False,Dog,1
-"Ribecke And Webberville,Austin,TX",30.2793598,-97.6828632,False,Dog,1
-"Tom Miller And Sahm,Austin,TX",30.2902188,-97.7045698,False,Dog,1
-"Highway 183 And Loyola Lane,Austin,TX",30.302603,-97.66111049999999,False,Dog,2
-"7201 White Panda Run,Travis,TX",30.1552621,-97.64273329999999,False,Dog,1
-"9002 Magna Carta Loop,Austin,TX",30.33611059999999,-97.6454918,False,Dog,1
-"8314 Sh 71 W,Austin,TX",30.2476159,-97.88862429999999,False,Dog,1
-"East Second And Mildred Street,Austin,TX",30.256147,-97.7188917,False,Dog,2
-"East William Cannon And Mckinney Falls,Austin,TX",30.1632324,-97.72589339999999,False,Dog,1
-"Coronado Hills And Berkman Drive,Austin,TX",30.325549,-97.6886899,False,Dog,1
-"Guadalupe And West Saint Johns,Austin,TX",30.3377868,-97.7144088,False,Dog,1
-"2701 East 7Th Street,Austin,TX",30.2591095,-97.71155639999999,False,Dog,2
-"4508 Merle,Austin,TX",30.2271145,-97.7890166,True,Dog,1
-"1400 Sharp,Travis,TX",30.2471768,-97.77165889999999,False,Dog,1
-"1009 Edgecliff Terrace,Austin,TX",30.2499,-97.73785199999999,False,Dog,2
-"Wolf Lane And Pearce Lane,Travis,TX",30.1408802,-97.5674659,False,Dog,1
-"Fireoak Drive And Deadoak Lane,Austin,TX",30.4241001,-97.7699043,False,Dog,1
-"Shadowglen,Travis,TX",30.3576583,-97.5450343,False,Dog,1
-"4800 Cottonwood St,Austin,TX",30.19658609999999,-97.7332259,False,Dog,1
-"9308 Anderson Mill,Austin,TX",30.4513025,-97.78414380000001,False,Dog,1
+"12034 Research Boulevard,Austin,TX",30.4253743,-97.7528821,False,Dog,1
+"7211 Ritchie,Austin,TX",30.3042416,-97.63879569999999,False,Dog,2
+"900 Thompson Street,Austin,TX",30.27016919999999,-97.7084696,False,Dog,1
+"26Th Street And Rio Grande,Austin,TX",30.29066439999999,-97.74440539999999,False,Dog,1
+"Wally Ave,Austin,TX",30.281282,-97.6843536,False,Dog,1
+"7806 South 1St Street,Austin,TX",30.1847224,-97.7924888,False,Dog,1
+"4602 East Stassney Lane,Austin,TX",30.1941649,-97.74496859999999,False,Dog,1
+"12Th Street And Chicon,Austin,TX",30.2737572,-97.719895,False,Dog,1
+"East Cesar Chavez And Willow Street,Austin,TX",30.2583991,-97.73089680000001,False,Dog,1
+"12221 North Mopac Express Way,Austin,TX",30.3785391,-97.7363927,False,Dog,1
+"1104 Tillery,Austin,TX",30.26492,-97.7029847,False,Dog,1
+"Laurelleaf Drive And Black Willow Street,Pflugerville,TX",30.4585807,-97.6326086,False,Dog,1
+"Airport,Austin,TX",30.194085,-97.67108859999999,False,Dog,2
+"18701 Rivertimber Drive,Del Valle,TX",30.213251,-97.52256799999999,False,Dog,3
+"Pendernales St And  Santa Rita,Austin,TX",30.256419,-97.7158,False,Dog,1
+"Airport Blvd And Shady Lane,Austin,TX",30.2593335,-97.69363360000001,False,Dog,1
+"6000 E Us 290 Hwy,Austin,TX",30.236452,-97.8515741,False,Dog,2
+"2901 South Capital Of Texas Highway,Austin,TX",30.2573391,-97.8071884,True,Dog,2
+"4812 Eastdale Dr,Austin,TX",30.2877132,-97.6699403,False,Dog,1
+"1550 Royal Crest Dr,Austin,TX",30.2405681,-97.7303609,False,Dog,1
+"Comal And East 4Th Street,Austin,TX",30.2611925,-97.7274185,False,Dog,1
+"1400 Dominique Drive,Austin,TX",30.3831256,-97.6588544,False,Dog,1
+"15033 Donna Jane Loop,Pflugerville,TX",30.4382378,-97.656346,False,Dog,1
+"5400 Montview,Austin,TX",30.3282236,-97.7415279,False,Dog,1
+"East Braker Lane And Pollyanna Avenue,Austin,TX",30.3771803,-97.6767411,False,Dog,1
+"Bee Cave Road And Montebello,Austin,TX",30.270648,-97.791134,False,Dog,1
+"1308 Muirfield Bend Dr,Travis,TX",30.4983476,-97.58397649999999,False,Dog,1
+"12821 Stoney Ridge Bend,Del Valle,TX",30.15919359999999,-97.63465090000001,False,Dog,1
+"6315 Ken Caryl Dr,Austin,TX",30.1579051,-97.7431622,False,Dog,2
+"Springdale And 12Th Street,Austin,TX",30.2789614,-97.6870409,False,Dog,2
+"South First And Dittmar,Austin,TX",30.1838742,-97.79268479999999,False,Dog,2
+"Hwy 130 And Hwy 183,Travis,TX",30.0503501,-97.69102409999999,True,Dog,1
+"4434 Frontier Trl,Austin,TX",30.2314364,-97.7957763,False,Dog,1
+"6900 Wentworth Dr,Austin,TX",30.2952646,-97.6300996,False,Dog,1
+"Slaughter And Manchaca,Austin,TX",30.175408,-97.82506599999999,False,Dog,3
+"Mearns Meadow And Boyer,Austin,TX",30.3832681,-97.71136109999999,False,Dog,3
+"Highway 71 And Ross Road,Austin,TX",30.1862016,-97.60952619999999,False,Dog,1
+"Salt Springs And Asa Drive,Austin,TX",30.1655347,-97.7416149,False,Dog,1
+"9201 Circuits Of America,Austin,TX",30.1345808,-97.6358511,False,Dog,1
+"Highway 290 And Harris Branch,Austin,TX",30.2649227,-97.73501300000001,False,Dog,1
+"Fm 1626 And Bliss Spillar,Austin,TX",30.1346217,-97.85305,False,Dog,1
+"Riverside And Willow Creek,Austin,TX",30.23767999999999,-97.725752,False,Dog,1
+"Boyce Lane And Kelton,Austin,TX",30.3644259,-97.6120962,False,Dog,1
+"Homestead Village Circle And Avery Ranch,Austin,TX",30.4956347,-97.7959008,False,Dog,1
+"East William Cannon Drive And Mckinney Falls Parkway,Austin,TX",30.1632324,-97.72589339999999,False,Dog,2
+"3402 Neal St,Austin,TX",30.2645028,-97.70039480000001,False,Dog,1
+"Airport And Manor Road,Austin,TX",30.2862723,-97.70649039999999,False,Dog,1
+"8107 Tuscaroa Trail,Austin,TX",30.44144,-97.7695317,False,Dog,1
+"11906 Bronco Circle,Austin,TX",30.06294,-97.704257,False,Dog,8
+"12609 Lexington St,Travis,TX",30.3489422,-97.555871,False,Dog,1
+"Liberty Hill Tx,Williamson,TX",30.6649119,-97.9225161,False,Dog,1
+"5134 East Highway 71,Travis,TX",30.1864963,-97.5599427,False,Dog,1
+"6300 South Congress,Austin,TX",30.1982993,-97.77705069999999,False,Dog,1
+"7404 Wildcat Pass,Austin,TX",30.3425212,-97.7204773,False,Dog,1
+"183 And Lakecreek,Austin,TX",30.47934339999999,-97.8032995,False,Dog,1
+"2301 East St Elmo Road,Austin,TX",30.2026242,-97.74593689999999,False,Dog,1
+"Jacks Pass,Travis,TX",30.3749478,-97.919534,True,Dog,1
+"12009 Buckingham Gate Rd,Austin,TX",30.1532345,-97.8527474,False,Dog,1
+"Emerald Forest Drive And Austin Highlands,Austin,TX",30.2018139,-97.7927764,False,Dog,1
+"Northeast And Manor Road,Austin,TX",30.3085332,-97.6707603,False,Dog,1
+"12117 Manchaca,Travis,TX",30.1410223,-97.83302119999999,False,Dog,1
+"Manchaca Road  And Glen Allen Street,Austin,TX",30.2408735,-97.78219999999999,False,Dog,1
+"2323 Wells Branch Parkway,Austin,TX",30.43954,-97.687057,False,Dog,1
+"Grove Blvd & Hogan Avenue,Austin,TX",33.3603323,-86.85109659999999,False,Dog,1
+"Fm 2222 And River Place Blouevard,Austin,TX",30.3417978,-97.6706414,False,Dog,1
+"2000 S Ih 35,Austin,TX",30.2373884,-97.7397817,True,Dog,1
+"South Oltorf And Durwood Street,Austin,TX",30.2413254,-97.7579667,False,Dog,1
+"6117 Ponca Street,Austin,TX",30.2381639,-97.6969864,False,Dog,1
+"Jollyville Road And Pavillion Boulevard,Austin,TX",30.4241813,-97.7569247,False,Dog,6
+"Dove Spring Park,Austin,TX",30.1858719,-97.73759629999999,False,Dog,2
+"15416 Sarahs Creek Drive,Pflugerville,TX",30.445641,-97.6582026,False,Dog,1
+"4535 Texas 71,Del Valle,TX",30.1870347,-97.60636749999999,False,Dog,1
+"Highway 71 And Terry Lane,Austin,TX",30.2065839,-97.6458839,False,Dog,1
+"900 Broken Feather Trail,Pflugerville,TX",30.4362622,-97.64014309999999,False,Dog,1
+"500 East 7Th Street,Austin,TX",30.2679088,-97.73749319999999,False,Dog,1
+"12424 Research,Austin,TX",30.4276659,-97.75850109999999,True,Dog,1
+"W Anderson Ln And Georgian,Austin,TX",30.3440085,-97.7050058,False,Dog,1
+"North Pleasant Valley Road And Castro Street,Austin,TX",30.2627897,-97.7085573,False,Dog,1
+"Airport Blvd At Oak Springs,Austin,TX",30.2736074,-97.69792489999999,True,Dog,1
+"13412 Guarnere,Austin,TX",30.1689782,-97.6122025,False,Dog,1
+"51St Street And Berkman,Austin,TX",30.3037953,-97.698926,False,Dog,1
+"Atterbury Lane And Shropshire,Austin,TX",30.3864429,-97.6582785,False,Dog,1
+"13512 Fm 812,Austin,TX",30.124047,-97.6385214,False,Dog,1
+"Berkman Drive And Briarcliff Drive,Austin,TX",30.3141156,-97.6925373,False,Dog,1
+"West Anderson Lane And Georgian Drive,Austin,TX",30.3440085,-97.7050058,False,Dog,2
+"8027 Birmingham Drive,Austin,TX",30.1821872,-97.8026184,False,Dog,1
+"1617 North Interstate 35 Frontage Road,Austin,TX",30.2771774,-97.72924019999999,False,Dog,1
+"Stassney And South 1St,Austin,TX",30.2084327,-97.7815497,False,Dog,1
+"14925 Swiss Dr,Austin,TX",30.130467,-97.6112093,True,Dog,1
+"12118 Walnut Park Crossing,Austin,TX",30.3935615,-97.6769525,False,Dog,1
+"10507 Little Pebble Dr Unit A,Austin,TX",30.3832462,-97.709903,False,Dog,1
+"7112 Derby Downs Drive,Austin,TX",30.1491911,-97.7384646,False,Dog,1
+"Airport Blvd & Springdale Rd,Austin,TX",30.673568,-88.250519,False,Dog,1
+"4403 Scottsdale Rd,Austin,TX",30.2853029,-97.67893959999999,False,Dog,1
+"5701 Johnny Morris Rd,Austin,TX",30.2919175,-97.65322189999999,False,Dog,5
+"10507 Mcmillian Drive,Austin,TX",30.3707649,-97.6835636,False,Dog,1
+"1808 Maple Avenue,Austin,TX",30.2800181,-97.7163506,False,Dog,1
+"Airport And Goodwin,Austin,TX",30.2681023,-97.69627299999999,False,Dog,1
+"2500 Dovewood,Austin,TX",30.1897094,-97.7540832,False,Dog,1
+"Southridge And Southport,Austin,TX",30.2328148,-97.7775267,False,Dog,1
+"Warrington Drive,Austin,TX",30.3617755,-97.67474109999999,False,Dog,2
+"9910 Bilbrook Pl,Austin,TX",30.1705412,-97.8173328,False,Dog,1
+"Elm Creek Drive And Blue Meadow Drive,Austin,TX",30.1825618,-97.76615489999999,False,Dog,1
+"Bee Caves Road @ Hwy 71,Travis,TX",30.3051325,-97.9360068,False,Dog,1
+"Bluff Springs Road And Quicksilver Drive,Austin,TX",30.1776585,-97.7698193,False,Dog,2
+"3401 West Parmer Lane,Austin,TX",30.42247489999999,-97.7095576,False,Dog,2
+"12001 Hispana Court,Austin,TX",30.4179258,-97.73013399999999,False,Dog,1
+"5808 Mckinney Falls Parkway,Austin,TX",30.1807597,-97.721997,False,Dog,1
+"8400 Old Bee Caves,Austin,TX",30.2515692,-97.8870768,False,Dog,2
+"Donald Drive And Claudia June Avenue,Austin,TX",30.442275,-97.68453919999999,False,Dog,1
+"4705 Leather Leaf,Austin,TX",30.1896776,-97.7466668,False,Dog,1
+"Metric And Cedar Bend Drive,Austin,TX",30.4082533,-97.69690159999999,False,Dog,1
+"North Lamar And Rundberg,Austin,TX",30.363062,-97.6970274,False,Dog,1
+"Escarpment And Convict Hill,Austin,TX",30.2257607,-97.86859570000001,False,Dog,1
+"11005 Little Thicket Road,Austin,TX",30.243564,-98.00043,False,Dog,1
+"7000 Comanche Trail,Austin,TX",30.41454779999999,-97.8857503,True,Dog,2
+"Chinook Drive And Pinto Path,Austin,TX",30.2398748,-97.8883036,False,Dog,2
+"183 And Montopolis,Austin,TX",30.2429541,-97.69191839999999,False,Dog,1
+"10505 S Ih 35,Austin,TX",30.1470725,-97.7925784,False,Dog,9
+"7Th Street And Pedernales Street,Austin,TX",30.2609074,-97.7137334,False,Dog,1
+"6520 Kirkwynd Drive,Austin,TX",30.3495001,-97.6168312,False,Dog,1
+"East Parmer And Lamplight Village,Austin,TX",30.4160647,-97.6965606,False,Dog,1
+"Chaparral And Dunlap,Austin,TX",30.2362412,-97.5684357,False,Dog,2
+"Runberg Lane,Austin,TX",30.3680722,-97.7076271,False,Dog,1
+"2555 Western Trails,Austin,TX",30.2296834,-97.7981057,False,Dog,1
+"14100 Thermal Drive,Austin,TX",30.4332046,-97.67666559999999,False,Dog,1
+"6533 Tara Drive,Austin,TX",30.16197069999999,-97.74013529999999,False,Dog,1
+"3515 Convict Hill Rd,Austin,TX",30.2109996,-97.83304629999999,False,Dog,1
+"Steck And Mesa,Austin,TX",30.3743812,-97.75543019999999,False,Dog,1
+"117010 Kingsview,Austin,TX",30.4348999,-97.78032660000001,True,Dog,1
+"Chicon Street And East 10Th Street,Austin,TX",30.2649855,-97.7210059,False,Dog,2
+"2900 N Farm To Market Road 973,Austin,TX",30.2388428,-97.6241618,False,Dog,2
+"11000 North Interstate 35,Austin,TX",30.3732851,-97.68033620000001,False,Dog,1
+"13542 Research,Austin,TX",30.4508745,-97.7918644,False,Dog,1
+"Manchaca Road And Matthews Lane,Austin,TX",30.2000002,-97.80743419999999,False,Dog,1
+"East William Cannon And Meadow Lake Boulevard,Austin,TX",30.1810034,-97.7502126,False,Dog,1
+"4404 East Oltorf,Austin,TX",30.2272601,-97.72582620000001,False,Dog,1
+"Airport Boulevard And Martin Luther King Drive,Austin,TX",30.2825403,-97.70398689999999,False,Dog,1
+"13229 High Sierra,Manor,TX",30.3411104,-97.52257949999999,False,Dog,2
+"12138 North Lamar Blvd,Austin,TX",30.3991227,-97.6794893,False,Dog,1
+"5901 Little Creek Trl,Austin,TX",30.1876443,-97.7437889,False,Dog,1
+"12419 Metric Blvd,Austin,TX",30.4113272,-97.6916068,False,Dog,1
+"1034 Clayton,Austin,TX",30.319344,-97.7036072,False,Dog,1
+"Highway 183 And Martin Luther King,Austin,TX",30.2854966,-97.6662928,False,Dog,1
+"14200 The Lakes Boulevard,Pflugerville,TX",30.4279153,-97.6659179,False,Dog,1
+"124 West Anderson Lane,Austin,TX",30.3447022,-97.70523279999999,False,Dog,2
+"8300 Rockwood,Austin,TX",30.3663626,-97.73426719999999,False,Dog,1
+"4700 Westgate,Austin,TX",30.2289776,-97.8019048,False,Dog,1
+"Cesar Chavez And Navasota,Austin,TX",30.259171,-97.730539,False,Dog,1
+"6104 Homestead Trail,Austin,TX",30.2485016,-97.88143339999999,False,Dog,1
+"Riverside And Montopolis,Austin,TX",30.2249851,-97.7033993,False,Dog,1
+"10402 Little Pebble Drive,Austin,TX",30.3819287,-97.71146019999999,False,Dog,1
+"5400 Ross Road,Austin,TX",30.174399,-97.62314889999999,False,Dog,1
+"Oltorf,Austin,TX",30.2253084,-97.725376,False,Dog,1
+"9200 N Plaza,Austin,TX",30.3544255,-97.6861029,False,Dog,1
+"East 51St Street And Mueller Blvd,Austin,TX",30.30571939999999,-97.7027418,False,Dog,1
+"Govalle And Webberville Road,Austin,TX",30.2678683,-97.7075521,False,Dog,1
+"5600 North Interstate Highway 35,Austin,TX",30.3161304,-97.70796229999999,False,Dog,1
+"Fm 620 And Debba,Austin,TX",30.3768874,-97.94652140000001,False,Dog,1
+"1110 Little Elm Park,Austin,TX",30.3643283,-97.7052679,False,Dog,2
+"6711 Johnny Morris Rd,Austin,TX",30.3010887,-97.64677379999999,False,Dog,1
+"603 Davis,Austin,TX",30.2595051,-97.7393505,False,Dog,1
+"3313 East 12Th Street,Austin,TX",30.27662309999999,-97.6993781,False,Dog,1
+"10081 Old Manchaca Road,Austin,TX",30.1731365,-97.8307444,False,Dog,1
+"1700 Terri Road,Austin,TX",30.204469,-97.75588599999999,False,Dog,1
+"Mebee Street And Mattie Street,Austin,TX",30.297292,-97.7028113,False,Dog,1
+"Wedgewood Dr & Braker Lane,Austin,TX",35.16355679999999,-80.86068949999999,False,Dog,1
+"East Ben White And Burleson Road,Austin,TX",30.2153913,-97.7334446,False,Dog,1
+"5300 Apple Orchard Lane,Austin,TX",30.1995234,-97.7317906,False,Dog,1
+"8311 Citation,Travis,TX",30.1347156,-97.6771788,True,Dog,2
+"1601 South Mopac Express Way,Austin,TX",30.2599906,-97.79138019999999,False,Dog,1
+"303 East Pheasant Drive,Austin,TX",30.3639916,-97.6890971,False,Dog,1
+"2300 Cesar Chavez,Austin,TX",30.25535369999999,-97.71906580000001,True,Dog,1
+"1729 Constantino Circle,Austin,TX",30.1964639,-97.8058487,False,Dog,1
+"South Pleasant Valley And Teri Road,Austin,TX",30.1970166,-97.74423859999999,False,Dog,1
+"19400 Block Callan Court,Manor,TX",30.3689006,-97.5211977,False,Dog,2
+"12179 Running Bird Ln,Austin,TX",30.4080184,-97.69540339999999,False,Dog,1
+"West Braker Lane And Austin Park Lane,Austin,TX",30.3848413,-97.6928169,False,Dog,1
+"13730 N Fm 620,Austin,TX",30.4763314,-97.7747139,True,Dog,1
+"19518 Englemann Ln,Travis,TX",30.453056,-97.516054,False,Dog,1
+"Tollway 130 And Fm 973,Austin,TX",30.2945236,-97.57020519999999,False,Dog,1
+"4501 East Ben White Boulevard,Austin,TX",30.214455,-97.73432199999999,False,Dog,1
+"9901 Rodriguez,Austin,TX",30.115208,-97.7039861,False,Dog,3
+"13201 Ranch Road 620 North,Austin,TX",30.4692718,-97.791197,False,Dog,1
+"4905 Valley Oak,Austin,TX",30.3297658,-97.75780309999999,False,Dog,1
+"Westgate And William Cannon,Austin,TX",30.2071514,-97.81551209999999,False,Dog,1
+"13504 Coomes Drive,Austin,TX",30.170613,-97.6115744,False,Dog,2
+"9501 Kempler Dr,Austin,TX",30.177825,-97.8224424,False,Dog,1
+"7200 Grand Canyon,Austin,TX",30.3284352,-97.6944328,False,Dog,2
+"801 Jet Lane,Austin,TX",30.2324593,-97.6803041,False,Dog,1
+"2900 South 1St,Austin,TX",30.236915,-97.764172,False,Dog,1
+"7103 Cannonleague Dr,Austin,TX",30.1999496,-97.8056247,False,Dog,1
+"20400 Quiet Oaks Lane,Austin,TX",30.2977223,-97.4945365,False,Dog,1
+"St Johns And Cameron Road,Austin,TX",30.32902439999999,-97.69034200000002,False,Dog,1
+"6403 Johnny Morris Rd,Austin,TX",30.29694,-97.648866,False,Dog,1
+"500 E 4Th St,Austin,TX",30.2652321,-97.7382391,False,Dog,2
+"2Nd Street And Tillery Street,Austin,TX",30.25205919999999,-97.7086041,False,Dog,1
+"3218 Park Hills Drive,Austin,TX",30.2784954,-97.7886748,False,Dog,1
+"Rutland And Mountain Quail,Austin,TX",30.3711784,-97.7094702,False,Dog,1
+"2511 Glenn Springs,Austin,TX",30.22975229999999,-97.73900859999999,False,Dog,1
+"William Cannon And Salt Springs,Austin,TX",30.1689408,-97.7384984,False,Dog,1
+"Parker Lane And Woodland Avenue,Austin,TX",30.238168,-97.7329824,False,Dog,1
+"Oak Knoll And Jollyville,Austin,TX",30.4276008,-97.7600602,False,Dog,1
+"8228 Research Blvd,Austin,TX",30.35539189999999,-97.71552589999999,False,Dog,1
+"Blake Manor Roadn And Lockwood Road,Manor,TX",30.3050953,-97.5308158,False,Dog,1
+"710 East Ben White Blvd,Austin,TX",30.2210485,-97.7540937,False,Dog,1
+"1711 Krizan Ave,Austin,TX",30.4213356,-97.68533579999999,False,Dog,1
+"1009 Edgecliff Terrace,Austin,TX",30.2499,-97.73785199999999,False,Dog,1
+"Dobie Drive And Aberdeen Way,Austin,TX",30.3566536,-97.6762718,False,Dog,1
+"Cripple Creek And Parkfield,Austin,TX",30.3748926,-97.7009784,False,Dog,1
+"Mount Bonnell And Fm 2222,Travis,TX",30.2724641,-97.7975591,False,Dog,1
+"1113 East 3Rd,Austin,TX",30.2615805,-97.7322444,True,Dog,1
+"800 Floredale,Austin,TX",30.3662513,-97.6815752,False,Dog,1
+"12609 Dessau,Austin,TX",30.3921783,-97.64225069999999,False,Dog,1
+"William Cannon And Blue Meadow,Austin,TX",30.1800219,-97.7597991,False,Dog,2
+"Spicewood Springs And Old Lampassas Trail,Travis,TX",30.4224075,-97.79378539999999,False,Dog,1
+"Jones Road And Littig,Manor,TX",30.32009949999999,-97.479547,False,Dog,1
+"Old Bee Caves Rd,Austin,TX",30.2490462,-97.8862427,False,Dog,1
+"Cambria Ln & Cambana,Austin,TX",42.1386515,-88.31881109999999,False,Dog,1
+"Westgate,Austin,TX",30.2238266,-97.79872999999999,False,Dog,1
+"7932 West Rim Dr,Austin,TX",30.373013,-97.767567,False,Dog,1
+"Dry Season And Wet Season,Austin,TX",30.37382719999999,-97.65260359999999,False,Dog,2
+"Montopolis Drive And Burleson Road,Austin,TX",30.2055591,-97.71664439999999,False,Dog,1
+"Airport & Lamar,Austin,TX",34.19495819999999,-118.3518845,False,Dog,1
+"2239 Cromwell Circle,Austin,TX",30.2279274,-97.7183337,False,Dog,1
+"Shropshire Lane And Tuffit Lane,Austin,TX",30.3830054,-97.66052719999999,False,Dog,1
+"Lockwood And Taylor Road,Manor,TX",30.3036465,-97.5264881,False,Dog,2
+"2101 Jesse Segovia,Austin,TX",30.2495998,-97.7247469,False,Dog,1
+"5611 Tallow Tree Drive,Austin,TX",30.1948715,-97.7537608,False,Dog,1
+"Elroy Road And Fagerquist Road,Austin,TX",30.1420038,-97.6161719,False,Dog,2
+"11916 Plains Valley,Travis,TX",30.1621149,-97.6395694,False,Dog,1
+"2201 Willow Creek Apt 338,Austin,TX",30.2304916,-97.7296717,False,Dog,1
+"Howard Lane And Interstate 35,Pflugerville,TX",30.4243431,-97.6711588,False,Dog,1
+"1700 Burton Drive,Austin,TX",30.2377808,-97.7279277,False,Dog,1
+"North Imperial And Wayside,Austin,TX",30.2724392,-97.6209674,False,Dog,1
+"6701 Burnet Road,Austin,TX",30.3422521,-97.7379029,False,Dog,2
+"Ih35 And Onion Creek Overpass,Austin,TX",30.13710339999999,-97.7967216,False,Dog,1
+"300 Carmen Court,Austin,TX",30.3356477,-97.70749289999999,False,Dog,1
+"4900 Barkbridge Trl,Austin,TX",30.1774551,-97.7528311,False,Dog,2
+"1704 Nelms Drive,Austin,TX",30.1945143,-97.7645016,False,Dog,1
+"8328 Sassman,Austin,TX",30.1364154,-97.71652929999999,False,Dog,1
+"5310 Prock Lane,Austin,TX",30.2677375,-97.6841776,False,Dog,2
+"12800 Chime Drive,Manor,TX",30.3430476,-97.5275735,False,Dog,1
+"104 Payton Gin,Austin,TX",30.3622812,-97.71022169999999,False,Dog,1
+"1088 Park Plz,Austin,TX",30.3488884,-97.68510429999999,False,Dog,2
+"Fm 620 And Anderson Mill Road,Austin,TX",30.4554746,-97.8257457,False,Dog,1
+"3431 West William Cannon Drive,Austin,TX",30.2133443,-97.8301396,False,Dog,1
+"4413 Quicksilver,Austin,TX",30.1737918,-97.76234009999999,False,Dog,1
+"5004 Creek Bend,Austin,TX",30.1831116,-97.7469382,False,Dog,1
+"1704 Nelms,Austin,TX",30.1945143,-97.7645016,False,Dog,1
+"2811 La Frontera,Austin,TX",30.4776787,-97.68380309999999,True,Dog,1
+"Bolm Road And Perry Street,Austin,TX",30.2565138,-97.68663889999999,False,Dog,1
+"5800 Sweeney Circle,Austin,TX",30.3048795,-97.68000119999999,False,Dog,1
+"6713 Dubuque Lane,Austin,TX",30.31352,-97.67019599999999,False,Dog,1
+"Seldaia Trail,Travis,TX",30.513556,-97.8080722,False,Dog,1
+"311 W William Cannon,Austin,TX",30.1945901,-97.78411419999999,True,Dog,1
+"South Congress Avenue And East Ben White Blvd,Austin,TX",30.2224893,-97.7641591,False,Dog,1
+"Perez Street And East 16Th,Austin,TX",30.2812346,-97.69241989999999,False,Dog,2
+"Rosewood Avenue And Chicon Street,Austin,TX",30.26969709999999,-97.7190566,False,Dog,1
+"Old Bee Caves Road And Highway 71,Austin,TX",30.2339807,-97.8712305,False,Dog,2
+"13904 Joyce Lane,Travis,TX",30.585207,-97.983312,False,Dog,1
+"10705 Lambert Cir,Austin,TX",30.3817796,-97.70092819999999,False,Dog,1
+"15000 Parrish Lane,Austin,TX",30.2389367,-97.5814721,False,Dog,1
+"6005 Pino Lane,Austin,TX",30.1890665,-97.7502413,False,Dog,1
+"Fm 969 And Johnny Morrison Road,Austin,TX",30.2827895,-97.6532107,False,Dog,1
+"North Lamar And West 38Th Street,Austin,TX",30.3051799,-97.7430691,False,Dog,1
+"2413 Sanders,Austin,TX",30.1678552,-97.8323626,False,Dog,1
+"Westgate And Stassney Lane,Austin,TX",30.21896409999999,-97.807186,False,Dog,2
+"6401 Betty Cook Drive,Austin,TX",30.3102119,-97.6748891,False,Dog,1
+"2600 E. 2Nd Street,Austin,TX",30.2549486,-97.7147966,True,Dog,1
+"Springdale Road And Sprinkle Road,Austin,TX",30.3517432,-97.64642649999999,False,Dog,1
+"Rundberg And Georgian,Austin,TX",30.3608038,-97.69344339999999,False,Dog,1
+"Letti Lane And Tayside,Pflugerville,TX",30.413621,-97.6480431,False,Dog,1
+"20708 Post Oak Parkway,Manor,TX",30.2778341,-97.4895854,False,Dog,2
+"12105 Buzz Scheider Lane,Austin,TX",30.14580979999999,-97.8381342,False,Dog,1
+"Howard Lane And Dessau Road,Austin,TX",30.4036738,-97.6383111,False,Dog,1
+"Oltorf Street And Ih 35,Austin,TX",30.2336228,-97.740483,False,Dog,1
+"Enfield Road And Norwalk,Austin,TX",30.290203,-97.771411,False,Dog,1
+"5408 Imperial Dr,Travis,TX",30.2730658,-97.6210612,True,Dog,1
+"1700 Onion Creek Parkway,Austin,TX",30.1392456,-97.802751,False,Dog,1
+"Thornberry Road And Highway 71,Travis,TX",30.2186437,-97.6689454,False,Dog,1
+"421 Thompson Ln,Austin,TX",30.2384879,-97.6822802,False,Dog,2
+"12101 Buzz Schneider,Austin,TX",30.14595,-97.8381623,True,Dog,1
+"4309 Bandice Lane,Pflugerville,TX",30.44896779999999,-97.5668791,False,Dog,1
+"Stassney Lane And Pleasant Valley Drive,Austin,TX",30.193907,-97.7447332,False,Dog,1
+"7600 Thomas Springs,Austin,TX",30.249396,-97.92162289999999,False,Dog,1
+"Slaughter Ln And Westgate,Austin,TX",30.1791939,-97.8410243,False,Dog,1
+"Coastal Dr And Alexandria,Austin,TX",30.2021457,-97.8453333,False,Dog,1
+"3901 East Stassney Lane,Austin,TX",30.1935838,-97.7464059,False,Dog,1
+"8028 El Roy Road,Del Valle,TX",30.141273,-97.61830499999999,False,Dog,1
+"529 West Oltorf Street,Austin,TX",30.2415268,-97.7592908,False,Dog,1
+"7104 Berkman Drive,Austin,TX",30.3241886,-97.69135109999999,False,Dog,1
+"8512 Devine Ln,Austin,TX",30.1844556,-97.8115601,False,Dog,1
+"Hattery Lane,Austin,TX",30.4969452,-97.78911,False,Dog,1
+"Parker Lane And Glen Springs Way,Austin,TX",30.22944379999999,-97.7389949,False,Dog,1
+"Dessau And Parmer,Austin,TX",30.3868874,-97.64854679999999,False,Dog,1
+"600 E Parsons St,Manor,TX",30.341097,-97.54922599999999,False,Dog,1
+"Scofield Ridge Pkwy & Lamplight,Austin,TX",30.4287257,-97.6915382,False,Dog,1
+"6020 Los Cielos,Del Valle,TX",30.1685189,-97.6240105,False,Dog,1
+"10500 N Ih35,Austin,TX",30.3690671,-97.6823096,False,Dog,1
+"Pleasant Valley And East Riverside,Austin,TX",30.234191,-97.7207,False,Dog,1
+"1156 W Cesar Chavez,Austin,TX",30.2698458,-97.7593014,True,Dog,1
+"3106 Catalina Dr,Austin,TX",30.2217222,-97.73730859999999,False,Dog,1
+"Manchaca Road And Davis Lane,Austin,TX",30.1858279,-97.8163307,False,Dog,3
+"Dean Keeton And Robert Dedmond,Austin,TX",30.2882914,-97.7291611,False,Dog,1
+"South 5Th Street And Brodie Street,Austin,TX",30.246722,-97.76309499999999,True,Dog,1
+"1906 Willow Creek,Austin,TX",30.2333704,-97.7291674,False,Dog,1
+"2901 West Slaughter Lane,Austin,TX",30.1779837,-97.8391346,False,Dog,1
+"Union Lee Road,Manor,TX",30.2521807,-97.4760696,False,Dog,1
+"Murray Lane,Manor,TX",30.34800079999999,-97.5582359,False,Dog,1
+"4802 Flicker Cove,Austin,TX",30.1861149,-97.7477523,False,Dog,1
+"2203 Leah Cv A,Austin,TX",30.1765784,-97.826661,False,Dog,1
+"3500 Windsor Road,Austin,TX",30.300089,-97.773904,False,Dog,1
+"Woodward And East Ben White Boulevard,Austin,TX",30.2166168,-97.7440065,False,Dog,1
+"6118 Fairway Street,Austin,TX",30.2295189,-97.70241519999999,False,Dog,1
+"Barwood Park,Austin,TX",30.3501967,-97.6965168,False,Dog,1
+"9900 S Ih 35,Austin,TX",30.1562322,-97.7930385,False,Dog,1
+"Jamestown Drive And Maryland Drive,Austin,TX",30.3592359,-97.7046006,False,Dog,1
+"11501 Arrowmound Pass,Del Valle,TX",30.1547499,-97.65153699999999,False,Dog,2
+"3622 Manchaca,Austin,TX",30.238215,-97.7845025,False,Dog,2
+"Brodie Lane And West Us Highway 290,Austin,TX",30.2326035,-97.8184871,False,Dog,1
+"8509 Fm 969,Austin,TX",30.2735,-97.638865,False,Dog,1
+"Rogge Lane And Manor Road,Austin,TX",30.30454899999999,-97.6812839,False,Dog,1
+"12400 Mellow Meadows,Austin,TX",30.4563207,-97.79769569999999,False,Dog,1
+"Parker Lane And Oltrof,Austin,TX",30.231191,-97.737612,False,Dog,1
+"4305 Tucker Hill,Travis,TX",30.1879365,-97.518337,True,Dog,1
+"7700 W Parmer Ln,Austin,TX",30.4589827,-97.7493095,False,Dog,2
+"21028 Blake Manor Rd,Travis,TX",30.255674,-97.480268,False,Dog,1
+"Fm 2222 And Mopac Expy,Austin,TX",30.4335101,-97.7001352,False,Dog,1
+"8515 S Ih 35,Austin,TX",30.171053,-97.78197569999999,False,Dog,1
+"220 Foremost,Austin,TX",30.179293,-97.7798153,False,Dog,1
+"10812 N Ih 35,Austin,TX",30.1446674,-97.7952522,True,Dog,1
+"East St Johns Avenue And Meador Avenue,Austin,TX",30.3290542,-97.6962296,False,Dog,1
+"5909 Reicher Dr,Austin,TX",30.3046458,-97.6754016,False,Dog,2
+"120 Mist Flower,Travis,TX",30.4201048,-97.65880120000001,False,Dog,1
+"20670 Cameron,Travis,TX",30.456062,-97.4943569,False,Dog,1
+"2007 Nightview Dr,Austin,TX",30.4101641,-97.6271382,False,Dog,1
+"19100 Blake Manor Rd,Austin,TX",30.2828025,-97.5157065,False,Dog,1
+"220-0 Ponciana,Austin,TX",30.1986225,-97.75524120000001,False,Dog,1
+"6920 Capina Xing,Travis,TX",30.1595362,-97.6407304,False,Dog,1
+"900 West Riverside Drive,Austin,TX",30.2636296,-97.7543843,False,Dog,1
