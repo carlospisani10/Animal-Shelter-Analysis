@@ -26,6 +26,7 @@ In order to analyze factors that drove how long animals stayed in the shelter sy
 * Does the location of where the animal is found affect intake and outcomes?
 * Do nearby Vet clinics affect intakes?
 * Is there a difference between Austin shelters and those in other cities?
+* What other factor affect outcomes?
 
 
 
@@ -148,3 +149,41 @@ We used a one-way ANOVA to compare time-to-outcome between cats and dogs (analyz
 The one-way ANOVA revealed that the difference in means between these four groups was statistically significant (F = 4086.97, p < .001). Specifically, animals that were Adopted were in the system for the longest, with a mean time-to-outcome of 31.1 days. Animals that were euthanized had the shortest time in the system, with an average of only 8.4 days.
 
 Animals that ended up being adopted also had much higher variance in time-to-outcome than animals with other outcome types. This likely reflects efforts to keep adoptable animals in the system for as long as possible, while animals that are unsuitable for adoption (for either behavioral or medical reasons) are either unable or not permitted to spend arbitrarily long periods of time in the shelter system.
+
+## Other Factors Austin vs Louisville
+
+### Dogs
+* Compared to Louisville, dogs are adopted more frequently compared to Louisville.
+* Austin avoids euthanization at a much higher rate than Louisville
+* Provide other solutions such as transfer to rescue shelters, etc.
+* People adopt puppies: in both cities, dogs less than a year old have the highest adoption rate (especially Austin)
+
+![Louisville2](/figures/age_dog.png)
+
+### Cats
+* The results are similar for cats:
+* Adoption rates are higher in Austin, but the gap closes a bit.
+* For the oldest felines: 2 are euthanized for every 3 adoptions in Austin
+    * 6.5 euthanized for every 1 adoption in Louisville. 
+* Adoption rates are higher for dogs than cats across age ranges in Austin
+    * Does the availability of dog parks influence this?
+
+![Louisville2](/figures/age_cat.png)
+
+### Popular Breeds
+* Louisville euthanizes Pitbull Terriers at an alarming rate: Approximately 2000 over the last four years.
+    * Media influence? “Aggressive breeds”
+* Austin has more adoptions and less euthanizations across the board for all popular breeds
+* Labrador Retrievers and Chihuahua’s are the most commonly adopted dogs in Austin.
+
+![Louisville2](/figures/breed_adopt.png)
+
+### Cat Color
+* The results show that these popular cat colors are adopted similarly in both cities
+* 1 in 4 black cats were adopted in Louisville, while 1 in 3 black were were adopted in Austin.
+
+![Louisville2](/figures/color_adopt.png)
+
+Austin, TX adopts more animals in general than Louisville, KY, dogs in particular.
+Some popular breeds are more common in Louisville (Pitbull Terrier, Brown Tabby)
+
