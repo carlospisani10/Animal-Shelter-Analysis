@@ -90,15 +90,26 @@ The change in spay neuter status changes dramatically between intake and outcome
 ## Location Analysis
 
 In general, the most animal intakes center around the I-35 corridor, with one large patch south of 290 near downtown, and another north of downtown near 183.
+![location](/figures/map1.png)
 
 ###Strays vs. Pets in Homes
 Stray intakes tended to center around the same corridor in Austin, while intakes from pets in homes were more spread out inside and outside the city.
 
+![location](/figures/map2.png)
+![location](/figures/map3.png)
+
 ###Dogs vs. Cats
 Dog intakes were more prevalent than cat intakes, and more concentrated in the downtown area, and around the I-35/71/183 corridors. Cat intakes tended to be a little more spread out than dog intakes.
 
+![location](/figures/map4.png)
+![location](/figures/map5.png)
+![location](/figures/map6.png)
+
 ###Frequency of Vets
 We created a scatter plot of the number of intake addresses within a 1,700 meter radius of all veterinary clinics in Austin.
+
+![location](/figures/map7.png)
+
 * In areas with lowest vet count, the frequency of intakes was highest.
 * As vet count increased up to a certain point, intake frequency decreased. 
 * In areas with a higher concentration of vets, the number of intakes increased again.
