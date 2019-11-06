@@ -1,0 +1,74 @@
+Address,Latitude,Longitude,Pet at Home,Animal Type,Count
+"1416 Edgewater,Travis,TX",30.404714,-97.99815,True,Dog,1
+"7711 Burnet Rd,Austin,TX",30.3540074,-97.7316501,True,Dog,1
+"10100 South Ih 35,Austin,TX",30.1526571,-97.79207369999999,True,Dog,1
+"12221 North Mopac,Austin,TX",30.3785391,-97.7363927,True,Dog,1
+"5606 Purple Sage Dr #B,Austin,TX",30.3093857,-97.654132,True,Dog,1
+"8105 Research Boulevard,Austin,TX",30.3532802,-97.7117674,True,Dog,1
+"7711 Burnet Road,Austin,TX",30.3540074,-97.7316501,True,Dog,1
+"6105 Saddler Ln,Austin,TX",30.2902452,-97.6400688,True,Cat,11
+"9204 Independence Loop,Austin,TX",30.1771424,-97.81263969999999,True,Dog,1
+"806 Sarhara,Austin,TX",30.2044057,-97.785643,True,Cat,1
+"3204 Manchaca Rd,Austin,TX",30.2401784,-97.7836169,True,Cat,1
+"7711 Burnet,Austin,TX",30.3540074,-97.7316501,True,Dog,1
+"4320 S Congress #7123,Austin,TX",26.6126883,-80.0899759,True,Dog,2
+"2412 E 9Th Street,Austin,TX",30.2649598,-97.71503729999999,True,Bird,1
+"9017 Berryline,Austin,TX",30.27940169999999,-97.62800220000001,True,Dog,1
+"10623 Carovilli,Austin,TX",30.1581704,-97.8154654,True,Dog,1
+"1908 Lightsey Rd,Austin,TX",30.2410098,-97.7795823,True,Dog,1
+"Rutherford Lane And Cameron,Austin,TX",30.3372845,-97.6831905,True,Cat,1
+"7711 Burnet Rf,Austin,TX",30.3540074,-97.7316501,True,Dog,1
+"West 4Th And Colorado Street,Austin,TX",30.2665678,-97.7448567,True,Dog,1
+"1801 W Wells Branch,Austin,TX",30.434166,-97.6756862,True,Other,1
+"11150 Research Blvd,Austin,TX",30.4067937,-97.7466302,True,Cat,1
+"2302 Durwood,Austin,TX",30.243197,-97.7569022,True,Dog,1
+"11502 Swearingen,Austin,TX",30.389539,-97.69731,True,Dog,1
+"1156 W Cesar Chavez,Austin,TX",30.2698458,-97.7593014,True,Dog,4
+"12112 Killmartin,Austin,TX",30.363031,-97.611254,True,Dog,1
+"7111 Crystalbrook Dr,Austin,TX",30.3086135,-97.6521574,True,Dog,1
+"19900 Kennemer Dr,Travis,TX",30.477357,-97.5786694,True,Dog,1
+"2212 Lakehurst Rd,Travis,TX",30.3699231,-98.0251138,True,Dog,1
+"8926 N Lamar,Austin,TX",30.3600666,-97.6998005,True,Cat,1
+"7604 Bellflower Cv,Austin,TX",30.4190681,-97.7770444,True,Cat,4
+"10 Love Grass,Sunset Valley,TX",30.224048,-97.820381,True,Dog,2
+"5400 W Parmer Ln,Austin,TX",30.4365485,-97.7334523,True,Cat,1
+"2000 Cedar Bend Drive,Austin,TX",30.409552,-97.69798499999999,True,Cat,2
+"7800 Doncaster Drive,Austin,TX",30.1980363,-97.81922449999999,True,Cat,1
+"3300 Laguna Dr,Austin,TX",30.2194348,-97.7363579,True,Dog,1
+"810 Red River St,Austin,TX",30.2691681,-97.73666279999999,True,Dog,1
+"East Rundberg And Ih 35,Austin,TX",30.3583997,-97.688627,True,Dog,1
+"2900 Highway 71,Austin,TX",30.2079272,-97.6490591,True,Cat,1
+"8500 Spicewood Springs Rd,Austin,TX",30.4292166,-97.7824445,True,Dog,1
+"124 W Anderson,Austin,TX",30.3447022,-97.70523279999999,True,Dog,1
+"1301 Quailfield,Austin,TX",30.3665174,-97.7071244,True,Dog,1
+"500 W 33Rd St,Austin,TX",30.2996477,-97.73922089999999,True,Cat,1
+"7601 Summervale Drive,Austin,TX",30.221856,-97.89307790000001,True,Cat,1
+"North I-H-35,Austin,TX",30.3427504,-97.7037491,True,Dog,1
+"908 Walter St,Austin,TX",30.2671776,-97.7119421,True,Dog,1
+"Canoga And Decker,Austin,TX",30.2835134,-97.6329183,True,Dog,1
+"Highway 71,Bee Cave,TX",30.308103,-97.9525061,True,Dog,1
+"William Cannon And Escarpment,Austin,TX",30.2299795,-97.864662,True,Other,1
+"Airport Boulevard And Goodwin Avenue,Austin,TX",30.2681023,-97.69627299999999,True,Dog,1
+"11810 Pinto Cir,Mustang Ridge,TX",30.06345,-97.705547,True,Dog,1
+"3605 Steck,Austin,TX",30.3694615,-97.74559169999999,True,Cat,1
+"5310 George St,Austin,TX",30.1902545,-97.7347676,True,Dog,2
+"102 East Rundberg,Austin,TX",30.3638869,-97.6916658,True,Dog,1
+"4502 Hudson Bend Rd,Travis,TX",30.4061891,-97.9273822,True,Dog,2
+"Ektom Dr  and  West Gate Blvd,Austin,TX",30.2239405,-97.8049712,True,Cat,1
+"Owen Tech Blvd And West Wells Branch Blvd,Austin,TX",30.438698,-97.67201089999999,True,Dog,2
+"3800 S 183 Hwy,Travis,TX",30.1946119,-97.6848399,True,Dog,2
+"6315 Ken Caryl Dr,Austin,TX",30.1579051,-97.7431622,True,Dog,1
+"11934 Rosethorn Dr,Austin,TX",30.4004104,-97.70035949999999,True,Dog,1
+"6501 Highpoint Cove,Austin,TX",30.3065462,-97.6663616,True,Dog,1
+"2100 San Jacinto,Austin,TX",30.2840095,-97.7335602,True,Dog,1
+"12028 Trot Wood Drive,Austin,TX",30.3851317,-97.66323539999999,True,Cat,1
+"3101 Collins Creek Dr,Austin,TX",30.2221944,-97.732109,True,Dog,1
+"8440 Burnet,Austin,TX",30.36615759999999,-97.72915139999999,True,Dog,1
+"8610 N Lamar Blvd,Austin,TX",30.3555199,-97.70408719999999,True,Dog,1
+"11106 Selma,Austin,TX",30.3834842,-97.6949841,True,Dog,1
+"6301 A Latigo Pass,Austin,TX",30.2306774,-97.8659855,True,Cat,1
+"Camperdown Elm And S 1St Street,Austin,TX",30.1542155,-97.8006264,True,Dog,1
+"901 W Ben White Blvd,Austin,TX",30.2260667,-97.7745257,True,Dog,1
+"5Th And Congress,Austin,TX",30.2671174,-97.74313049999999,True,Dog,1
+"4508 Merle,Austin,TX",30.2271145,-97.7890166,True,Dog,1
+"2623  Gwendolyn Ln,Austin,TX",30.17455259999999,-97.8364209,True,Cat,1
